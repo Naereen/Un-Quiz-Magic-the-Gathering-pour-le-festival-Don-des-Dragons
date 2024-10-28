@@ -19,12 +19,10 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 
 ## Question 1
 
-Comment s'appelle l'extension ayant ce symbole ?
-Et en quelle année est-elle sortie ?
+- Comment s'appelle l'extension ayant ce symbole ?
+- Et en quelle année est-elle sortie ?
 
-<center>
-<i class="ss ss-sth ss-6x"></i>
-</center>
+<center><i class="ss ss-sth ss-6x"></i></center>
 
 -----------------------------------
 
