@@ -3,15 +3,22 @@
 */
 
 body {
-    font-family: 'Planewalker';
+    font-family: 'Beleren';
     zoom: 1.40;
     -moz-transform: scale(1.40);
     -moz-transform-origin: 0 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
+    /* font-family: 'Plantin'; */
+    font-family: 'Planewalker';
     text-align: center;
     margin-top: 4% !important;
+}
+
+ol {
+    text-align: center;
+    list-style-position: inside;
 }
 
 div.slide {
@@ -25,15 +32,22 @@ div.slide {
     background-position-x:   center;
     background-position-y:   top;
     background-color:        transparent;
-
-    /* See: https://stackoverflow.com/a/18618259/5889533 */
-    /* align-items: center; */
-    /* display: flex; */
-    /* justify-content: center; */
 }
 
-div.toolbar {
+/* div.toolbar {
     z-index: -1;
+} */
+
+@font-face {
+    font-family: 'Beleren';
+    src: url('fonts/Beleren2016-Bold.ttf')
+         format('truetype');
+}
+
+@font-face {
+    font-family: 'Plantin';
+    src: url('fonts/PlantinMTProBold.TTF')
+         format('truetype');
 }
 
 @font-face {
