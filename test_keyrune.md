@@ -1,44 +1,3 @@
----
-title: Quiz Magic the Gathering
-author: Lilian Besson (Naereen)
-subtitle: Arpenteurs de Strasbourg @ Festival Dons des Dragons 2024
-date: 30 Novembre 2024
----
-<link href="https://alexandrearpin.com/mtg-font/css/magic-font.css" rel="stylesheet" type="text/css" />
-<link href="https://cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" rel="stylesheet" type="text/css" />
-
-# Un Quiz sur *Magic: the Gathering*
-
-Bienvenue dans ce quiz sur *Magic* !
-
-Il y aura *20* questions.
-
-Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou mauvaises réponses !
-
------------------------------------
-
-## Question 1
-
-- Comment s'appelle l'extension ayant ce symbole ?
-- Et en quelle année est-elle sortie ?
-
-<center><i class="ss ss-sth ss-6x"></i></center>
-
------------------------------------
-
-## Question 2
-
-- Quel est le type de créature est le **second** le plus représenté dans la couleur rouge ?
-
-  a. Dragon
-  b. Humain 
-  c. Gobelin
-  d. Guerrier
-
--------------------------------------------------------------------------------------
-
-# Test des polices web pour les symboles d'extensions
-
 ## Core Sets
 
 - <i class="ss ss-lea ss-1x"></i> Alpha (lea)
@@ -70,8 +29,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-m21 ss-1x"></i> Core 2021 (m21)
 - <i class="ss ss-afr ss-1x"></i> Adventures in the Forgotten Realms (afr)
 - <i class="ss ss-fdn ss-1x"></i> Foundations (fdn)
-
-----
 
 ## Expansion Sets
 
@@ -181,8 +138,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-dsk ss-1x"></i> Duskmourn: House of Horror(dsk)
 - <i class="ss ss-dft ss-1x"></i> Aetherdrift (dft)
 
-----
-
 ## Command Zone Sets
 
 - <i class="ss ss-van ss-1x"></i> Vanguard (van)
@@ -237,8 +192,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-dsc ss-1x"></i> Duskmourn Commander (dsc)
 - <i class="ss ss-fdc ss-1x"></i> Foundations Commander (fdc)
 
-----
-
 ## Reprint Sets
 
 - <i class="ss ss-chr ss-1x"></i> Chronicles (chr)
@@ -273,8 +226,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-mb2 ss-1x"></i> Mystery Booster 2(mb2)
 - <i class="ss ss-j25 ss-1x"></i> Jumpstart 2025 (j25)
 
-----
-
 ## Beginner Sets
 
 - <i class="ss ss-por ss-1x"></i> Portal (por)
@@ -284,8 +235,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-s00 ss-1x"></i> Starter 2000 (s00)
 - <i class="ss ss-w16 ss-1x"></i> Welcome Deck 2016 (w16)
 - <i class="ss ss-w17 ss-1x"></i> Welcome Deck 2017 (w17)
-
-----
 
 ## Duel Decks
 
@@ -312,8 +261,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-ddt ss-1x"></i> Merfolk v. Goblins (ddt)
 - <i class="ss ss-ddu ss-1x"></i> Elves v. Inventors (ddu)
 
-----
-
 ## From the Vault Sets
 
 - <i class="ss ss-drb ss-1x"></i> FTV: Dragons (drb)
@@ -328,8 +275,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-v16 ss-1x"></i> FTV: Lore (v16)
 - <i class="ss ss-v17 ss-1x"></i> FTV: Transform (v17)
 
-----
-
 ## Premium Deck Series
 
 - <i class="ss ss-h09 ss-1x"></i> PDS: Slivers (h09)
@@ -337,21 +282,15 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-pd3 ss-1x"></i> PDS: Graveborn (pd3)
 - <i class="ss ss-md1 ss-1x"></i> Modern Event Deck (md1)
 
-----
-
 ## Signature Spellbooks
 
 - <i class="ss ss-ss1 ss-1x"></i> Jace (ss1)
 - <i class="ss ss-ss2 ss-1x"></i> Gideon (ss2)
 - <i class="ss ss-ss3 ss-1x"></i> Chandra (ss3)
 
-----
-
 ## Global Series
 
 - <i class="ss ss-gs1 ss-1x"></i> Jiang Yanggu & Mu Yanling (gs1)
-
-----
 
 ## Guild Kits
 
@@ -365,8 +304,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-rakdos ss-1x"></i> Guild Kit: Rakdos (rakdos)
 - <i class="ss ss-selesnya ss-1x"></i> Guild Kit: Selesnya (selesnya)
 - <i class="ss ss-simic ss-1x"></i> Guild Kit: Simic (simic)
-
-----
 
 ## Other Supplemental Products
 
@@ -387,8 +324,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-acr ss-1x"></i> UB: Assassin's Creed (acr)
 - <i class="ss ss-mh3 ss-1x"></i> Modern Horizons 3 (mh3)
 - <i class="ss ss-inr ss-1x"></i> Innistrad Remastered (inr)
-
-----
 
 ## Promotional Sets
 
@@ -426,8 +361,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-bot ss-1x"></i> The Brothers' War Transformers (bot)
 - <i class="ss ss-rex ss-1x"></i> Jurassic World (rex)
 
-----
-
 ## Online Sets
 
 - <i class="ss ss-me1 ss-1x"></i> Masters Edition (me1)
@@ -453,8 +386,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-y24 ss-1x"></i> Alchemy 2024 (y24)
 - <i class="ss ss-yblb ss-1x"></i> Alchemy 2025 (y25, yblb)
 
-----
-
 ## Un-Serious Sets
 
 - <i class="ss ss-ugl ss-1x"></i> Unglued (ugl)
@@ -463,8 +394,6 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-und ss-1x"></i> Unsanctioned (und)
 - <i class="ss ss-unf ss-1x"></i> Unfinity (unf)
 - <i class="ss ss-una ss-1x"></i> Unfinity Acorns (una)
-
-----
 
 ## Unofficial Symbols
 
@@ -476,165 +405,3 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 - <i class="ss ss-peuro ss-1x"></i> Euro Lands (peuro)
 - <i class="ss ss-pfnm ss-1x"></i> Friday Night Magic (pfnm)
 - <i class="ss ss-30a ss-1x"></i> J30th Anniversary Edition (30a)
-
--------------------------------------------------------------------------------------
-
-# Test des polices web pour les symboles des cartes
-
-## Type of mana symbols
-
-- <i class="mi mi-w mi-1x"></i> Plain
-- <i class="mi mi-u mi-1x"></i> Island
-- <i class="mi mi-b mi-1x"></i> Swamp
-- <i class="mi mi-r mi-1x"></i> Mountain
-- <i class="mi mi-g mi-1x"></i> Forest
-- <i class="mi mi-c mi-1x"></i> Waste
-- <i class="mi mi-p mi-1x"></i> Phyrexia
-
--------------------------------------------------------------------------------------
-
-## Type of cards
-
-- <i class="mi mi-creature mi-1x"></i> Creature
-- <i class="mi mi-planeswalker mi-1x"></i> Planeswalker
-- <i class="mi mi-enchantment mi-1x"></i> Enchantment
-- <i class="mi mi-instant mi-1x"></i> Instant
-- <i class="mi mi-sorcery mi-1x"></i> Sorcery
-- <i class="mi mi-land mi-1x"></i> Land
-- <i class="mi mi-artifact mi-1x"></i> Artifact
-- <i class="mi mi-s mi-1x"></i> Snow
-- <i class="mi mi-chaos mi-1x"></i> Chaos
-
--------------------------------------------------------------------------------------
-
-## Other symbols
-
-- <i class="mi mi-planeswalk mi-1x"></i> Planeswalk
-- <i class="mi mi-multiple mi-1x"></i> Multiple
-- <i class="mi mi-t mi-1x"></i> Tap
-- <i class="mi mi-q mi-1x"></i> Untap
-- <i class="mi mi-e mi-1x"></i> Energy
-
--------------------------------------------------------------------------------------
-
-## Mana Symbols
-
-- <i class="mi mi-mana mi-w mi-1x"></i> Plain
-- <i class="mi mi-mana mi-u mi-1x"></i> Island
-- <i class="mi mi-mana mi-b mi-1x"></i> Swamp
-- <i class="mi mi-mana mi-r mi-1x"></i> Mountain
-- <i class="mi mi-mana mi-g mi-1x"></i> Forest
-- <i class="mi mi-mana mi-c mi-1x"></i> Waste
-
--------------------------------------------------------------------------------------
-
-## Phyrexian Mana Symbols
-
-- <i class="mi mi-p mi-mana-w mi-1x"></i> Plain (Phyrexia)
-- <i class="mi mi-p mi-mana-u mi-1x"></i> Island (Phyrexia)
-- <i class="mi mi-p mi-mana-b mi-1x"></i> Swamp (Phyrexia)
-- <i class="mi mi-p mi-mana-r mi-1x"></i> Mountain (Phyrexia)
-- <i class="mi mi-p mi-mana-g mi-1x"></i> Forest (Phyrexia)
-
--------------------------------------------------------------------------------------
-
-## Generic Mana 1/2
-
-- <i class="mi mi-1 mi-mana mi-1x"></i> 1 Generic Mana
-- <i class="mi mi-2 mi-mana mi-1x"></i> 2 Generic Mana
-- <i class="mi mi-3 mi-mana mi-1x"></i> 3 Generic Mana
-- <i class="mi mi-4 mi-mana mi-1x"></i> 4 Generic Mana
-- <i class="mi mi-5 mi-mana mi-1x"></i> 5 Generic Mana
-- <i class="mi mi-6 mi-mana mi-1x"></i> 6 Generic Mana
-- <i class="mi mi-7 mi-mana mi-1x"></i> 7 Generic Mana
-- <i class="mi mi-8 mi-mana mi-1x"></i> 8 Generic Mana
-- <i class="mi mi-9 mi-mana mi-1x"></i> 9 Generic Mana
-- <i class="mi mi-10 mi-mana mi-1x"></i> 10 Generic Mana
-
--------------------------------------------------------------------------------------
-
-## Generic Mana 2/2
-
-- <i class="mi mi-11 mi-mana mi-1x"></i> 11 Generic Mana
-- <i class="mi mi-12 mi-mana mi-1x"></i> 12 Generic Mana
-- <i class="mi mi-13 mi-mana mi-1x"></i> 13 Generic Mana
-- <i class="mi mi-14 mi-mana mi-1x"></i> 14 Generic Mana
-- <i class="mi mi-15 mi-mana mi-1x"></i> 15 Generic Mana
-- <i class="mi mi-16 mi-mana mi-1x"></i> 16 Generic Mana
-- <i class="mi mi-17 mi-mana mi-1x"></i> 17 Generic Mana
-- <i class="mi mi-18 mi-mana mi-1x"></i> 18 Generic Mana
-- <i class="mi mi-19 mi-mana mi-1x"></i> 19 Generic Mana
-
--------------------------------------------------------------------------------------
-
-## Hybrid Mana
-
-- <span class="mi-split"><i class="mi mi-b mi-1x"></i><i class="mi mi-g mi-1x"></i></span> Swamp/Forest
-- <span class="mi-split"><i class="mi mi-b mi-1x"></i><i class="mi mi-r mi-1x"></i></span> Swamp/Moutain
-- <span class="mi-split"><i class="mi mi-g mi-1x"></i><i class="mi mi-u mi-1x"></i></span> Forest/Island
-- <span class="mi-split"><i class="mi mi-g mi-1x"></i><i class="mi mi-w mi-1x"></i></span> Forest/Plain
-- <span class="mi-split"><i class="mi mi-w mi-1x"></i><i class="mi mi-b mi-1x"></i></span> Plain/Swamp
-- <span class="mi-split"><i class="mi mi-r mi-1x"></i><i class="mi mi-g mi-1x"></i></span> Mountain/Forest
-- <span class="mi-split"><i class="mi mi-r mi-1x"></i><i class="mi mi-w mi-1x"></i></span> Moutain/Plain
-- <span class="mi-split"><i class="mi mi-u mi-1x"></i><i class="mi mi-b mi-1x"></i></span> Island/Swamp
-- <span class="mi-split"><i class="mi mi-u mi-1x"></i><i class="mi mi-r mi-1x"></i></span> Island/Mountain
-- <span class="mi-split"><i class="mi mi-w mi-1x"></i><i class="mi mi-u mi-1x"></i></span> Plain/Island
-
--------------------------------------------------------------------------------------
-
-## 2/colored Hybrid Mana
-
-- <span class="mi-split"><i class="mi mi-2 mi-1x"></i><i class="mi mi-w mi-1x"></i></span> 2/Plain
-- <span class="mi-split"><i class="mi mi-2 mi-1x"></i><i class="mi mi-u mi-1x"></i></span> 2/Island
-- <span class="mi-split"><i class="mi mi-2 mi-1x"></i><i class="mi mi-b mi-1x"></i></span> 2/Swamp
-- <span class="mi-split"><i class="mi mi-2 mi-1x"></i><i class="mi mi-r mi-1x"></i></span> 2/Moutain
-- <span class="mi-split"><i class="mi mi-2 mi-1x"></i><i class="mi mi-g mi-1x"></i></span> 2/Forest
-
--------------------------------------------------------------------------------------
-
-## Tap/Untap
-
-- <i class="mi mi-tap mi-mana mi-1x"></i> Tap
-- <i class="mi mi-untap mi-mana mi-1x"></i> Untap
-
--------------------------------------------------------------------------------------
-
-## Mana Symbols (Shadows) 1/3
-
-- <i class="mi mi-mana mi-w mi-shadow mi-1x"></i> Plain
-- <i class="mi mi-mana mi-u mi-shadow mi-1x"></i> Island
-- <i class="mi mi-mana mi-b mi-shadow mi-1x"></i> Swamp
-- <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> Mountain
-- <i class="mi mi-mana mi-g mi-shadow mi-1x"></i> Forest
-- <i class="mi mi-mana mi-c mi-shadow mi-1x"></i> Waste
-
--------------------------------------------------------------------------------------
-
-## Mana Symbols (Shadows) 2/3
-
-- <span class="mi-split mi-shadow"><i class="mi mi-r mi-1x"></i><i class="mi mi-g mi-1x"></i></span> Mountain/Forest
-- <span class="mi-split mi-shadow"><i class="mi mi-r mi-1x"></i><i class="mi mi-w mi-1x"></i></span> Moutain/Plain
-- <span class="mi-split mi-shadow"><i class="mi mi-u mi-1x"></i><i class="mi mi-b mi-1x"></i></span> Island/Swamp
-- <span class="mi-split mi-shadow"><i class="mi mi-2 mi-1x"></i><i class="mi mi-b mi-1x"></i></span> 2/Swamp
-- <span class="mi-split mi-shadow"><i class="mi mi-2 mi-1x"></i><i class="mi mi-g mi-1x"></i></span> 2/Forest
-
--------------------------------------------------------------------------------------
-
-## Mana Symbols (Phyrexian) 3/3
-
-- <i class="mi mi-p mi-mana-w mi-shadow mi-1x"></i> Plain (Phyrexia)
-- <i class="mi mi-p mi-mana-u mi-shadow mi-1x"></i> Island (Phyrexia)
-- <i class="mi mi-p mi-mana-b mi-shadow mi-1x"></i> Swamp (Phyrexia)
-- <i class="mi mi-p mi-mana-r mi-shadow mi-1x"></i> Mountain (Phyrexia)
-- <i class="mi mi-p mi-mana-g mi-shadow mi-1x"></i> Forest (Phyrexia)
-
--------------------------------------------------------------------------------------
-
-## A propos de cette présentation
-
-- Écrite en [Markdown](https://en.wikipedia.org/wiki/Markdown) ;
-- Convertie en slides web avec [`pandoc`](https://pandoc.org/), avec l'option "slidy" ;
-- Utilisez "S" / "B" pour diminer/augmenter la taille du texte ;
-- Utilise les polices spéciales *Magic the Gathering* : [Planewalker](https://www.cufonfonts.com/font/planewalker) pour le texte, [Keyrune](https://keyrune.andrewgioia.com/index.html) pour les symboles d'extension, [Alexandre Arpin's Font](http://alexandrearpin.com/mtg-font/icons.html) pour les autres symboles ;
-- Open-source et libre, [sur mon GitHub](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)
-- [MIT Licensed](https://lbesson.mit-license.org/), (c) [Lilian Besson (Naereen), 2024](https://besson.link)
