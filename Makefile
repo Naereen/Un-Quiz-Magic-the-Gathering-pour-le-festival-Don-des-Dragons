@@ -1,7 +1,7 @@
 # Quick Makefile to easily compile the slides (make pdf) and run the slide (make showtime)
 SHELL=/usr/bin/env /bin/bash
 
-all:	webslides
+all:	webslides send
 webslides: slidy
 
 allslides:	slidy revealjs s5 slideous dzslides
@@ -42,3 +42,7 @@ Marp:
 
 typora:
 	typora slides.md
+
+send:	send_zamok
+send_zamok:
+	CP --exclude=.git ./ ${Szam}publis/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons/
