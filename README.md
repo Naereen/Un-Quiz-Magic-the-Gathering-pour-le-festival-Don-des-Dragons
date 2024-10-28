@@ -33,8 +33,8 @@ $ firefox http://localhost:8000/slides.slidy.html
 
 ----
 
-## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons/blob/master/LICENSE.txt)
-The slideshow (and all other documents) in this repository is published under the terms of the [MIT License](https://lbesson.mit-license.org/) (file [LICENSE.txt](LICENSE.txt)).
+## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons/blob/master/LICENSE)
+The slideshow (and all other documents) in this repository is published under the terms of the [MIT License](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2024.
 
 The logos and images are the properties of their respective authors, mainly [Wizards of the Coast](https://magic.wizards.com/).
