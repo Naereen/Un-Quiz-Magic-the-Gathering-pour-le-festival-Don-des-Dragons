@@ -1,9 +1,17 @@
 /* slides.css for Markdown slides generated with pandoc :
     $ pandoc --standalone -c slides.css -t slidy slides.md -o slides.slidy.html
 */
+
+body {
+    font-family: 'Planewalker';
+    zoom: 1.40;
+    -moz-transform: scale(1.40);
+    -moz-transform-origin: 0 0;
+}
+
 h1, h2, h3, h4, h5, h6 {
     text-align: center;
-    margin-top: 3% !important;
+    margin-top: 4% !important;
 }
 
 div.slide {
@@ -17,6 +25,11 @@ div.slide {
     background-position-x:   center;
     background-position-y:   top;
     background-color:        transparent;
+
+    /* See: https://stackoverflow.com/a/18618259/5889533 */
+    /* align-items: center; */
+    /* display: flex; */
+    /* justify-content: center; */
 }
 
 div.toolbar {
@@ -48,11 +61,4 @@ div.toolbar {
     src: url('fonts/planewalker-cufonfonts-webfont/Planewalker\ Bold\ Italic.woff')
          format('truetype');
     font-weight: italic bold;
-}
-
-body {
-    font-family: 'Planewalker';
-    zoom: 1.25;
-    -moz-transform: scale(1.25);
-    -moz-transform-origin: 0 0;
 }
