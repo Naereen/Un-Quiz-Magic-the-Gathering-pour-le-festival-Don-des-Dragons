@@ -1,0 +1,41 @@
+/* slides.css for Markdown slides generated with pandoc :
+    $ pandoc --standalone -c slides.css -t slidy slides.md -o slides.slidy.html
+*/
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+    margin-top: 3% !important;
+}
+
+@font-face {
+    font-family: 'Planewalker';
+    src: url('fonts/planewalker-cufonfonts-webfont/Planewalker.woff')
+         format('truetype');
+}
+
+@font-face {
+    font-family: 'Planewalker-Bold';
+    src: url('fonts/planewalker-cufonfonts-webfont/Planewalker\ Bold.woff')
+         format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Planewalker-Bold';
+    src: url('fonts/planewalker-cufonfonts-webfont/Planewalker\ Italic.woff')
+         format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Planewalker-Italic-Bold';
+    src: url('fonts/planewalker-cufonfonts-webfont/Planewalker\ Bold\ Italic.woff')
+         format('truetype');
+    font-weight: italic bold;
+}
+
+body {
+    font-family: 'Planewalker';
+    zoom: 1.25;
+    -moz-transform: scale(1.25);
+    -moz-transform-origin: 0 0;
+}
