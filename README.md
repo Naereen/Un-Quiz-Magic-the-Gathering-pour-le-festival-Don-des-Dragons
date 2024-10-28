@@ -1,13 +1,16 @@
 # Un quiz sur Magic the Gathering, pour le festival du Dons des Dragons édition 2024
 
-TODO: une phrase de résumé !
+Ce dépôt GitHub héberge le code source, ainsi que la version consultable en ligne, d'un Quiz que j'ai conçu pour la soirée du samedi 30 novembre 2024, lors du Festival du Dons des Dragons.
 
-## Un aperçu !
+## Un aperçu
 
-TODO: image1
-TODO: image2
-TODO: image3
-TODO: image4
+![Documentation screenshots : exemple question](documentation-screenshots/exemple-question1.png)
+
+![Documentation screenshots : exemple symboles extensions](documentation-screenshots/exemple-symboles-extensions.png)
+
+![Documentation screenshots : exemple symboles mana](documentation-screenshots/exemple-symboles-mana.png)
+
+![Documentation screenshots : a propos](documentation-screenshots/a-propos.png)
 
 ## Comment générer les slides ?
 
