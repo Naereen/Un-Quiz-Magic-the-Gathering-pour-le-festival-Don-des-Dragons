@@ -404,22 +404,34 @@ Les deux autres n'ont pas l'infection et ont une force de 11 pour le Colosse de 
 
 ----
 
-## Question 16/20 : TODO: (dure)
+## Question 16/20 : connaissance des cartes, y compris les bords argentés (dure)
 
 . . .
 
-TODO:
+En considérant les cartes à bords argentés (Un-set) et les jetons que celles-ci peuvent créer, combien de couleurs existent en tout dans Magic ?
 
 <br>
 
-> 1. TODO:
-> 2. TODO:
-> 3. TODO:
-> 4. TODO:
+> 1. six : cinq couleurs + l'incolore
+> 2. six : cinq couleurs + le rose
+> 3. sept : cinq couleurs + le rose + le doré
+> 4. autant que l'on veut, puisqu'on peut nommer *la couleur de ses yeux* !
 
 ::: notes
 
-**Réponse** : TODO:
+**Réponse** : 4. il y a bien sept couleurs précises : cinq couleurs, auxquelles s'ajoutent :
+
+- le rose, avec [ce jeton Giant Teddy Bear 5/5](https://scryfall.com/card/tund/5/giant-teddy-bear) créé par le [**Water Gun Balloon Game**](https://scryfall.com/card/und/85/water-gun-balloon-game) ;
+- le doré, avec [ce jeton Dragon 4/4 vol](https://scryfall.com/card/h17/4/dragon) créé par la [**Sword of Dungeons & Dragons**](https://scryfall.com/card/h17/3/sword-of-dungeons-&-dragons).
+
+  > **Notes and Rules Information** for **Sword of Dungeons & Dragons**:
+  > * The Dragon token is monocolored. It's gold. *(2018-01-19)*
+  > * If asked to choose a color in a silver-bordered game, you can choose gold. *(2018-01-19)*
+
+Mais, il faut aussi ajouter toutes les couleurs imaginables, car [**Avatar of Me**](https://scryfall.com/card/und/17/avatar-of-me) est de la couleur des yeux de son contrôleur...
+
+> **Notes and Rules Information** for **Avatar of Me**: 
+> Thanks to Avatar of Me, if you’re asked to choose a color in a silver-bordered game, you can name any color. [...]
 
 :::
 
