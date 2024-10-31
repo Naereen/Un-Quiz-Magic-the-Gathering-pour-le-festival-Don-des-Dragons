@@ -193,6 +193,8 @@ TODO: rafraîchir la réponse la veille du quiz !
 
 ## Question 7/20 : connaissance des cartes
 
+. . .
+
 Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc pas à bords argentés) ?
 
 > 1. <i class="mi mi-13 mi-mana mi-1x"></i> (13)
@@ -210,6 +212,8 @@ La réponse est 16, avec la carte [Draco](https://scryfall.com/search?q=draco+cm
 
 ## Question 8/20 : connaissance des cartes
 
+. . .
+
 Combien existe-t-il de créature(s), imprimées sur une carte à bord noirs, ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
 
 > 1. aucune (zéro)
@@ -226,6 +230,8 @@ Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com
 ----
 
 ## Question 9/20 : connaissance des règles
+
+. . .
 
 Dans votre bibliothèque, quelle est la force du [Changeforme corrompu](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
 
@@ -246,6 +252,8 @@ Dans votre bibliothèque, quelle est la force du [Changeforme corrompu](https://
 ----
 
 ## Question 10/20 : estimation statistique sur les cartes
+
+. . .
 
 Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/card/lea/232/black-lotus)** ont été imprimés dans l'édition <i class="ss ss-lea ss-1x"></i> Alpha à l'origine du jeu *Magic: the Gathering* ?
 
@@ -268,6 +276,8 @@ TODO: Je n'ai pas la source de cette réponse, je l'ai trouvée sur [ce quiz fai
 ----
 
 ## Question 11/20 : connaissance sur le lore (dure)
+
+. . .
 
 Qu'est-ce qui a finalement ruiné la si belle journée de ce cher **[Hans Ericksson](https://scryfall.com/card/cmr/279/fr/hans-eriksson)** ?
 
@@ -304,6 +314,8 @@ Donner le coût de mana de la carte qui a été votre réponse.
 
 ## Question 12/20 : connaissance des cartes
 
+. . .
+
 De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien) ?
 
 <img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician-sans-rarete.jpg" />
@@ -325,6 +337,8 @@ De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/c
 
 ## Question 13/20 : connaissance des cartes
 
+. . .
+
 Il y a quelques semaines, les futurs Secret Lairs **Magic / Marvel** ont été annoncés.
 
 Lequel(s) de ces super héros n'a **<ins>pas</ins>** été annoncé(s) ?
@@ -345,6 +359,8 @@ TODO: vérifier que ce soit toujours correct !
 ----
 
 ## Question 14/20 : connaissance sur le lore et les cartes
+
+. . .
 
 Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée [**Urza, Planeswalker**](https://scryfall.com/card/bro/238b/urza-planeswalker) ?
 
@@ -369,8 +385,9 @@ Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/ca
 
 ## Question 15/20 : connaissance sur les cartes et les règles
 
+. . .
+
 Si l'on joue avec 20 points de vie, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leurs caractéristiques et avec aucun autre permanent sur le champ de bataille de son côté.
-<!-- TODO: raccourcir ce paragraphe -->
 Quelles sont ces deux créatures ? Choisissez exactement deux réponses.
 
 > 1. [**Étali, mal primordial**](https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial)
@@ -387,7 +404,30 @@ Les deux autres n'ont pas l'infection et ont une force de 11 pour le Colosse de 
 
 ----
 
+## Question 16/20 : TODO: (dure)
+
+. . .
+
+TODO:
+
+<br>
+
+> 1. TODO:
+> 2. TODO:
+> 3. TODO:
+> 4. TODO:
+
+::: notes
+
+**Réponse** : TODO:
+
+:::
+
+----
+
 ## Question 17/20 : connaissance du lore
+
+. . .
 
 Quel est le plan du multivers le plus souvent visité par les extensions et le plus détaillé à ce jour ?
 
@@ -401,6 +441,69 @@ Quel est le plan du multivers le plus souvent visité par les extensions et le p
 ::: notes
 
 **Réponse** : Dominaria, sans avoir besoin de justifier.
+
+:::
+
+----
+
+## Question 18/20 : TODO:
+
+. . .
+
+TODO:
+
+<br>
+
+> 1. TODO:
+> 2. TODO:
+> 3. TODO:
+> 4. TODO:
+
+::: notes
+
+**Réponse** : TODO:
+
+:::
+
+----
+
+## Question 19/20 : TODO:
+
+. . .
+
+TODO:
+
+<br>
+
+> 1. TODO:
+> 2. TODO:
+> 3. TODO:
+> 4. TODO:
+
+::: notes
+
+**Réponse** : TODO:
+
+:::
+
+----
+
+## Question 20/20 : TODO:
+
+. . .
+
+TODO:
+
+<br>
+
+> 1. TODO:
+> 2. TODO:
+> 3. TODO:
+> 4. TODO:
+
+::: notes
+
+**Réponse** : TODO:
 
 :::
 
