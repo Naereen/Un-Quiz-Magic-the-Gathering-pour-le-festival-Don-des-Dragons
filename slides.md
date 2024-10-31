@@ -326,7 +326,8 @@ De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/c
 ## Question 13/20 : connaissance des cartes
 
 Il y a quelques semaines, les futurs Secret Lairs **Magic / Marvel** ont été annoncés.
-Lequel(s) de ces super héros n'a **pas** été annoncé ?
+
+Lequel(s) de ces super héros n'a **<ins>pas</ins>** été annoncé(s) ?
 *Il faut avoir la bonne ou toutes les bonnes réponses.*
 
 > 1. [**Tornade (Storm)**](https://scryfall.com/card/sld/1742/storm-force-of-nature)
@@ -347,7 +348,7 @@ TODO: vérifier que ce soit toujours correct !
 
 Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée [**Urza, Planeswalker**](https://scryfall.com/card/bro/238b/urza-planeswalker) ?
 
-<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
+<img style="float: right; width: 28vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
 
 <br>
 
@@ -368,14 +369,40 @@ Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/ca
 
 ## Question 15/20 : connaissance sur les cartes et les règles
 
-Dans un format comme le Duel Commander, où l'on joue avec 20 points de vie et où (quasiment) toutes les cartes de l'histoire de *Magic* sont légales, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leur caractéristique et avec aucun autre permanent sur le champ de bataille de son côté.
-
+Si l'on joue avec 20 points de vie, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leurs caractéristiques et avec aucun autre permanent sur le champ de bataille de son côté.
+<!-- TODO: raccourcir ce paragraphe -->
 Quelles sont ces deux créatures ? Choisissez exactement deux réponses.
 
 > 1. [**Étali, mal primordial**](https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial)
 > 2. [**Colosse de sombracier**](https://scryfall.com/card/fdn/671/darksteel-colossus)
 > 3. [**Emrakul, Déchirure des Éons**](https://scryfall.com/card/2x2/1/fr/emrakul-d%C3%A9chirure-des-%C3%A9ons)
 > 4. [**Colosse de pestacier**](https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier)
+
+::: notes
+
+**Réponse** : il s'agit des deux seules créatures ayant l'Infection et une force de 10 ou plus, à savoir [**Étali, mal primordial**](https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial) et [**Colosse de pestacier**](https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier).
+Les deux autres n'ont pas l'infection et ont une force de 11 pour le Colosse de Ssombrcier, et de 15 pour Emrakul, Déchirure des Éons.
+
+:::
+
+----
+
+## Question 17/20 : connaissance du lore
+
+Quel est le plan du multivers le plus souvent visité par les extensions et le plus détaillé à ce jour ?
+
+<br>
+
+> 1. **Mirrodin**
+> 2. **Innistrad**
+> 3. **Ravnica**
+> 4. **Dominaria**
+
+::: notes
+
+**Réponse** : Dominaria, sans avoir besoin de justifier.
+
+:::
 
 ----
 
