@@ -323,6 +323,60 @@ De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/c
 
 ----
 
+## Question 13/20 : connaissance des cartes
+
+Il y a quelques semaines, les futurs Secret Lairs **Magic / Marvel** ont été annoncés.
+Lequel(s) de ces super héros n'a **pas** été annoncé ?
+*Il faut avoir la bonne ou toutes les bonnes réponses.*
+
+> 1. [**Tornade (Storm)**](https://scryfall.com/card/sld/1742/storm-force-of-nature)
+> 2. [**Wolverine / Logan**](https://scryfall.com/card/sld/1737/wolverine-best-there-is)
+> 3. [**Cyclope**](https://scryfall.com/)
+> 4. [**Professeur Xavier**](https://scryfall.com/)
+
+::: notes
+
+**Réponse** : 3. et 4. n'ont pas (encore ?) été annoncés.
+TODO: vérifier que ce soit toujours correct !
+
+:::
+
+----
+
+## Question 14/20 : connaissance sur le lore et les cartes
+
+Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée [**Urza, Planeswalker**](https://scryfall.com/card/bro/238b/urza-planeswalker) ?
+
+<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
+
+<br>
+
+> 1. La [**Pierre de soumission**](https://scryfall.com/card/fbb/264/fr/pierre-de-soumission)
+> 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone)
+> 3. [**La Lithoforce**](https://scryfall.com/card/mh3/298/fr/lithoforce-us%C3%A9e)
+> 4. La [**Pierre de Guermont**](https://scryfall.com/card/afc/206/fr/pierre-de-guermont)
+
+::: notes
+
+Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone), comme on peut le voir sur la vraie version de la carte que j'avais modifiée :
+
+<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" />
+
+:::
+
+----
+
+## Question 15/20 : connaissance sur les cartes et les règles
+
+Dans un format comme le Duel Commander, où l'on joue avec 20 points de vie et où (quasiment) toutes les cartes de l'histoire de *Magic* sont légales, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leur caractéristique et avec aucun autre permanent sur le champ de bataille de son côté.
+
+Quelles sont ces deux créatures ? Choisissez exactement deux réponses.
+
+> 1. [**Étali, mal primordial**](https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial)
+> 2. [**Colosse de sombracier**](https://scryfall.com/card/fdn/671/darksteel-colossus)
+> 3. [**Emrakul, Déchirure des Éons**](https://scryfall.com/card/2x2/1/fr/emrakul-d%C3%A9chirure-des-%C3%A9ons)
+> 4. [**Colosse de pestacier**](https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier)
+
 ----
 
 ## Fin du Quiz !
