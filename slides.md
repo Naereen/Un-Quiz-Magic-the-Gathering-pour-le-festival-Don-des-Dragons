@@ -458,49 +458,72 @@ Quel est le plan du multivers le plus souvent visité par les extensions et le p
 
 ----
 
-## Question 18/20 : TODO:
+## Question 18/20 : estimation statistique sur les cartes (dure)
 
 . . .
 
-TODO:
+<small>
+Qui est l'artiste ayant illustré le plus de cartes différentes ?
+<br>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*
 
-<br>
+> 1. *Dan Frazier*
+> 2. *John Avon*
+> 3. *Kev Walker*
+> 4. *Greg Staples*
+</small>
 
-> 1. TODO:
-> 2. TODO:
-> 3. TODO:
-> 4. TODO:
+<center><img style="width: 40vh; opacity: 95%;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" /></center>
 
 ::: notes
 
-**Réponse** : TODO:
+**Réponse** : 2. [John Avon](https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), avec actuellement 1306 cartes différentes (au 1er novembre 2024).
+
+Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), 1196 cartes pour [Kev Walker](https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), et 789 cartes pour [Greg Staples](https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name).
 
 :::
 
 ----
 
-## Question 19/20 : TODO:
+## Question 18/20 : estimation statistique sur les cartes (dure) - Bonus
 
 . . .
 
-TODO:
+**Question précédente** : Qui est l'artiste ayant illustré le plus de cartes différentes ?
+<small>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*</small>
+<br>**Bonus** : estimer le nombre de cartes différentes illustrées par l'artiste de votre choix.
+
+> 1. *Dan Frazier*
+> 2. *John Avon*
+> 3. *Kev Walker*
+> 4. *Greg Staples*
+
+----
+
+## Question 19/20 : "œil de lynx" sur une carte que j'adore
+
+. . .
+
+Comme un pro du Photoshop, j'ai modifié un petit détail sur cette carte, la [**Goblin Ski Patrol**](https://scryfall.com/card/ice/190/goblin-ski-patrol) datant d'Ice Age (1995)... Qu'ai-je modifié ?
+
+<img style="float: right; width: 27vh; opacity: 95%;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" />
+
 
 <br>
 
-> 1. TODO:
-> 2. TODO:
-> 3. TODO:
-> 4. TODO:
+> 1. L'illustration, j'ai assombri la couleur du ciel
+> 2. Le coût de mana, en vrai c'est <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> seulement
+> 3. L'illustration, j'ai enlevé la signature de Mark Poole
+> 4. Le nom du goblin cité en texte d'ambiance
 
 ::: notes
 
-**Réponse** : TODO:
+**Réponse** : 3. L'illustration, j'ai enlevé la signature de Mark Poole. Pas trop dur à faire avec GIMP, plutôt que Photoshop !
 
 :::
 
 ----
 
-## Question 20/20 : TODO:
+## Question 20/20 : connaissance des règles
 
 . . .
 
@@ -533,9 +556,12 @@ TODO:
 
 ## A propos de cette présentation
 
+<small>
 - Écrite en [Markdown](https://en.wikipedia.org/wiki/Markdown) ;
 - Convertie en slides web avec [`pandoc`](https://pandoc.org/), avec l'option "slidy" ;
 - Utilisez "S" / "B" pour diminer/augmenter la taille du texte ;
 - Utilise les polices spéciales *Magic the Gathering* : [Planewalker](https://www.cufonfonts.com/font/planewalker) pour le texte, [Keyrune](https://keyrune.andrewgioia.com/index.html) pour les symboles d'extension, [Alexandre Arpin's Font](http://alexandrearpin.com/mtg-font/icons.html) pour les autres symboles ;
+- Utilise la base de données `AllPrintings.sqlite` du projet [MTG JSON](https://mtgjson.com/downloads/all-files/#allprintings) pour vérifier certaines réponses ;
 - Open-source et libre, [sur mon GitHub](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)
 - [MIT Licensed](https://lbesson.mit-license.org/), (c) [Lilian Besson (Naereen), 2024](https://besson.link)
+</small>
