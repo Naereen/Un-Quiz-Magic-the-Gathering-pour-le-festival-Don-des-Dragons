@@ -79,7 +79,7 @@ See: https://mtgjson.com/downloads/all-files/#allprintings
 
 . . .
 
-Qui emprisonna **Nicol Bolas** sur le plan de *Dominaria*,
+Qui emprisonna [**Nicol Bolas**](https://scryfall.com/card/tsb/98/nicol-bolas) sur le plan de *Dominaria*,
 avant sa libération lors des événements du [bloc Spirale Temporelle](https://scryfall.com/sets/tsp) ?
 
 <img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/tsb/98/nicol-bolas" src="cardes-images/tsb-98-nicol-bolas.jpg" />
@@ -103,12 +103,12 @@ avant sa libération lors des événements du [bloc Spirale Temporelle](https://
 
 . . .
 
-Antoine enchante sa **Cavernes aux gemmes**, qui a un marqueur "Chance", avec **Croissance abondante**.
-Au tour suivant, Nathan lance **Mage de la lune**.
+Antoine enchante sa [**Cavernes aux gemmes**](https://scryfall.com/card/tsr/280/gemstone-caverns), qui a un marqueur "Chance", avec [**Croissance abondante**](https://scryfall.com/card/dmc/128/abundant-growth).
+Au tour suivant, Nathan lance [**Mage de la lune**](https://scryfall.com/card/tsr/175/magus-of-the-moon).
 
 <center>
 <img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/tsr/280/gemstone-caverns" src="cardes-images/tsr-280-gemstone-caverns.jpg" />
-<img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/dmc-128-abundant-growth.jpg" />
+<img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/afc-150-abundant-growth.jpg" />
 <img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/tsr/175/magus-of-the-moon" src="cardes-images/tsr-175-magus-of-the-moon.jpg" />
 </center>
 
