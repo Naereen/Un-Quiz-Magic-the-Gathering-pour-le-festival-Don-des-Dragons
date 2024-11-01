@@ -52,8 +52,6 @@ Stronghold (STH)
 
 Quel type de créature est le **<ins>second</ins> le plus représenté** <span style="color: red;">dans la couleur rouge</span> <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> ?
 
-<br>
-
 > 1. [Dragon](https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Ddragon)
 > 2. [Humain](https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dhuman)
 > 3. [Gobelin](https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dgoblin)
@@ -555,6 +553,27 @@ A mon entretien, vais-je **<ins>forcément</ins>** piocher, par la capacité de 
 ::: notes
 
 **Réponse** : Non, la Baliste a un coût de mana égal à zéro sur le champ de bataille.
+
+:::
+
+----
+
+## Question 21/20 (bonus) : sur une illustration que j'adore
+
+. . .
+
+Qui est l'artiste ayant (magnifiquement) dessiné l'illustration de la carte [**Chemin des descendants**](https://scryfall.com/card/avr/173/fr/chemin-des-descendants) dans l'édition Avacyn Restored en 2012 ?
+
+<img style="float: right; width: 50vh; opacity: 95%;" alt="https://scryfall.com/card/avr/173/fr/chemin-des-descendants" src="cardes-images/avr-173-descendants-path.jpg" />
+
+> 1. [**Rebecca Guay**](https://scryfall.com/search?q=a%3A%E2%80%9CRebecca+Guay%E2%80%9D&unique=art&as=grid&order=name)
+> 2. [**Rob Alexander**](https://scryfall.com/search?q=a%3A%E2%80%9CRob+Alexander%E2%80%9D&unique=art&as=grid&order=name)
+> 3. [**Terese Nielsen**](https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&unique=art&as=grid&order=name)
+> 4. [**Aleksi Briclot**](https://scryfall.com/search?q=a%3A%E2%80%9CAleksi+Briclot%E2%80%9D&unique=art)
+
+::: notes
+
+**Réponse** : TODO:
 
 :::
 
