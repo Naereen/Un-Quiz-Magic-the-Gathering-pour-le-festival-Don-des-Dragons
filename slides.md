@@ -11,13 +11,16 @@ date: Samedi 30 novembre 2024
 
 Bienvenue dans ce quiz sur *Magic: the Gathering* <i class="mi mi-planeswalk mi-1x"></i>, notre jeu préféré !
 
+. . .
+
 Il y aura *20* questions, 5 fois de suite selon ce motif :
 
-- 4 questions "plutôt faciles", en QCM à quatre choix,
+- 4 questions "plutôt faciles", en QCM à deux ou quatre choix,
   valant 1 point chacune,
-- 1 question "plus dure" en réponse libre,
-  valant 2 points chacune,
+- 1 question "plus dure", valant 2 points chacune,
   avec un bonus valant 1 point de plus !
+
+. . .
 
 Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou mauvaises réponses !
 
@@ -47,7 +50,7 @@ Stronghold (STH)
 
 . . .
 
-Quel type de créature est le **<ins>second</ins> le plus représenté** dans la couleur rouge <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> ?
+Quel type de créature est le **<ins>second</ins> le plus représenté** <span style="color: red;">dans la couleur rouge</span> <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> ?
 
 <br>
 
@@ -85,10 +88,10 @@ avant sa libération lors des événements du [bloc Spirale Temporelle](https://
 
 <br>
 
-> 1. [Ugin](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
-> 2. [Arcades Sabboth](https://scryfall.com/card/dmr/355/arcades-sabboth)
-> 3. [Tetsuo Umezawa](https://scryfall.com/card/leg/262/tetsuo-umezawa)
-> 4. [Urza](https://scryfall.com/card/bro/238b/urza-planeswalker)
+> 1. Son frère [Ugin](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
+> 2. Son rival [Arcades Sabboth](https://scryfall.com/card/dmr/355/arcades-sabboth)
+> 3. Le héro [Tetsuo Umezawa](https://scryfall.com/card/leg/262/tetsuo-umezawa)
+> 4. L'arpenteur [Urza](https://scryfall.com/card/bro/238b/urza-planeswalker)
 
 ::: notes
 
@@ -102,7 +105,7 @@ avant sa libération lors des événements du [bloc Spirale Temporelle](https://
 
 . . .
 
-Antoine enchante sa **Cavernes aux gemmes** avec **Croissance abondante**. <br>
+Antoine enchante sa **Cavernes aux gemmes**, qui a un marqueur "Chance", avec **Croissance abondante**.
 Au tour suivant, Nathan lance **Mage de la lune**.
 
 <center>
@@ -180,7 +183,7 @@ Les quatre ont été éditées dans leur première édition à la rareté commun
 <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
 </center>
 
-**Bonus :** estimer le prix CardMarket moyen de votre réponse, dans leur version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir).
+**Bonus :** estimer le prix moyen sur CardMarket.com de votre réponse, dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir).
 
 ::: notes
 
@@ -205,6 +208,10 @@ Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc
 ::: notes
 
 La réponse est 16, avec la carte [Draco](https://scryfall.com/search?q=draco+cmc%3D16) de l'extension Planeshift sortie en 2001.
+
+<img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" />
+
+En comptant les cartes à bords argentés, il s'agit de [**Gleemax**](https://scryfall.com/card/unh/121/gleemax) qui a un coût de mana de 1.000.000 (un million de manas incolores).
 
 :::
 
@@ -261,10 +268,10 @@ Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/c
 
 <br>
 
-> 1. 1100
-> 2. 1900
-> 3. 2500
-> 4. 3600
+> 1. 190
+> 2. 1100
+> 3. 25000
+> 4. 360000
 
 ::: notes
 
@@ -279,13 +286,13 @@ TODO: Je n'ai pas la source de cette réponse, je l'ai trouvée sur [ce quiz fai
 
 . . .
 
-Qu'est-ce qui a finalement ruiné la si belle journée de ce cher **[Hans Ericksson](https://scryfall.com/card/cmr/279/fr/hans-eriksson)** ?
+Qu'est-ce qui a finalement ruiné la si belle journée de ce bon vieux **[Hans Ericksson](https://scryfall.com/card/cmr/279/fr/hans-eriksson)** ?
 
 <img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/cmr/279/fr/hans-eriksson" src="cardes-images/cmr-279-hans-eriksson.jpg" />
 
 <br>
 
-> 1. Une attaque d'une [**Patrouille gobeline à ski**](https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski)
+> 1. Une [**Patrouille gobeline à ski**](https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski)
 > 2. Une [**Chute de neige**](https://scryfall.com/card/ice/101/fr/chute-de-neige)
 > 3. Le [**Lhurgoyf**](https://scryfall.com/card/m3c/235/fr/lhurgoyf)
 > 4. Un [**Bonhomme de neige gobelin**](https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin)
@@ -306,9 +313,16 @@ Il s'agit de 3. Le **Lhurgoyf**, ce que l'on peut apprendre en lisant les textes
 
 ## Question 11/20 : connaissance sur le lore - Bonus (dure)
 
-<br><br>
+. . .
 
-Donner le coût de mana de la carte qui a été votre réponse.
+Donner le coût de mana de la carte que vous avez choisi.
+
+<br>
+
+1. Une [**Patrouille gobeline à ski**](https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski)
+2. Une [**Chute de neige**](https://scryfall.com/card/ice/101/fr/chute-de-neige)
+3. Le [**Lhurgoyf**](https://scryfall.com/card/m3c/235/fr/lhurgoyf)
+4. Un [**Bonhomme de neige gobelin**](https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin)
 
 ----
 
@@ -316,6 +330,7 @@ Donner le coût de mana de la carte qui a été votre réponse.
 
 . . .
 
+J'ai effacé sa rareté avec <s>Photoshop</s> GIMP...<br>
 De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien) ?
 
 <img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician-sans-rarete.jpg" />
@@ -344,10 +359,10 @@ Il y a quelques semaines, les futurs Secret Lairs **Magic / Marvel** ont été a
 Lequel(s) de ces super héros n'a **<ins>pas</ins>** été annoncé(s) ?
 *Il faut avoir la bonne ou toutes les bonnes réponses.*
 
-> 1. [**Tornade (Storm)**](https://scryfall.com/card/sld/1742/storm-force-of-nature)
+> 1. [**Tornade**](https://scryfall.com/card/sld/1742/storm-force-of-nature) (**Storm**)
 > 2. [**Wolverine / Logan**](https://scryfall.com/card/sld/1737/wolverine-best-there-is)
 > 3. [**Cyclope**](https://scryfall.com/)
-> 4. [**Professeur Xavier**](https://scryfall.com/)
+> 4. [**Professeur X**](https://scryfall.com/) (**Charles Xavier**)
 
 ::: notes
 
@@ -462,14 +477,15 @@ Quel est le plan du multivers le plus souvent visité par les extensions et le p
 
 . . .
 
-<small>
 Qui est l'artiste ayant illustré le plus de cartes différentes ?
+<small>
 <br>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*
 
 > 1. *Dan Frazier*
 > 2. *John Avon*
 > 3. *Kev Walker*
 > 4. *Greg Staples*
+
 </small>
 
 <center><img style="width: 40vh; opacity: 95%;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" /></center>
@@ -489,13 +505,13 @@ Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://s
 . . .
 
 **Question précédente** : Qui est l'artiste ayant illustré le plus de cartes différentes ?
-<small>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*</small>
+<!-- <small>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*</small> -->
 <br>**Bonus** : estimer le nombre de cartes différentes illustrées par l'artiste de votre choix.
 
-> 1. *Dan Frazier*
-> 2. *John Avon*
-> 3. *Kev Walker*
-> 4. *Greg Staples*
+1. *Dan Frazier*
+2. *John Avon*
+3. *Kev Walker*
+4. *Greg Staples*
 
 ----
 
@@ -503,17 +519,14 @@ Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://s
 
 . . .
 
-Comme un pro du Photoshop, j'ai modifié un petit détail sur cette carte, la [**Goblin Ski Patrol**](https://scryfall.com/card/ice/190/goblin-ski-patrol) datant d'Ice Age (1995)... Qu'ai-je modifié ?
+Comme un pro de <s>Photoshop</s> GIMP, j'ai modifié un petit détail sur cette carte, la [**Goblin Ski Patrol**](https://scryfall.com/card/ice/190/goblin-ski-patrol) datant d'Ice Age (1995)... Qu'ai-je modifié ?
 
 <img style="float: right; width: 27vh; opacity: 95%;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" />
 
-
-<br>
-
-> 1. L'illustration, j'ai assombri la couleur du ciel
-> 2. Le coût de mana, en vrai c'est <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> seulement
-> 3. L'illustration, j'ai enlevé la signature de Mark Poole
-> 4. Le nom du goblin cité en texte d'ambiance
+> 1. L'illustration, j'ai ajouté des cornes
+> 2. Le coût de mana, en vrai c'est <i class="mi mi-4 mi-mana mi-shadow mi-1x"></i><i class="mi mi-mana mi-r mi-shadow mi-1x"></i>
+> 3. L'illustration, j'ai enlevé la signature de Mark Poole en bas à droite
+> 4. Le nom du gobelin cité en texte d'ambiance
 
 ::: notes
 
@@ -527,18 +540,21 @@ Comme un pro du Photoshop, j'ai modifié un petit détail sur cette carte, la [*
 
 . . .
 
-TODO:
+<!-- https://rulesguru.org/?1177 -->
+<!-- <i class="ms ms-loyalty-down ms-loyalty-1 ms-2x"></i> -->
 
-<br>
+Je contrôle [**Padeem, Consul de l'Innovation**](https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation), ainsi qu'une [**Baliste ambulante**](https://scryfall.com/card/sld/1265/walking-ballista) ayant été lancée pour X valant un million (ça annonce la fin de partie...). Aucun autre permanent n'a atteint de valeur aussi impressionnante...
 
-> 1. TODO:
-> 2. TODO:
-> 3. TODO:
-> 4. TODO:
+<img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/j22/806/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" />
+
+A mon entretien, vais-je **<ins>forcément</ins>** piocher, par la capacité de Padeem ?
+
+> 1. **Oui**
+> 2. **Non**
 
 ::: notes
 
-**Réponse** : TODO:
+**Réponse** : Non, la Baliste a un coût de mana égal à zéro sur le champ de bataille.
 
 :::
 
@@ -546,22 +562,24 @@ TODO:
 
 ## Fin du Quiz !
 
-🎉 Bravo à tous et toutes, merci de votre participation ! 🎉
+<br><br>
 
-. . .
+### 🎉 Bravo à tous et toutes, merci de votre participation ! 🎉
 
-### Calcul des scores et distribution des lots !
+<br>
+
+### 🎁 Calcul des scores et distribution des lots ! 🎁
 
 ----
 
 ## A propos de cette présentation
 
 <small>
-- Écrite en [Markdown](https://en.wikipedia.org/wiki/Markdown) ;
+- *Astuce* : utilisez "S" / "B" pour diminer/augmenter la taille du texte ;
+- Écrite en [Markdown](https://en.wikipedia.org/wiki/Markdown), un langage à balise léger et libre ;
 - Convertie en slides web avec [`pandoc`](https://pandoc.org/), avec l'option "slidy" ;
-- Utilisez "S" / "B" pour diminer/augmenter la taille du texte ;
-- Utilise les polices spéciales *Magic the Gathering* : [Planewalker](https://www.cufonfonts.com/font/planewalker) pour le texte, [Keyrune](https://keyrune.andrewgioia.com/index.html) pour les symboles d'extension, [Alexandre Arpin's Font](http://alexandrearpin.com/mtg-font/icons.html) pour les autres symboles ;
+- Utilise les polices spéciales *Magic the Gathering* : [Planewalker](https://www.cufonfonts.com/font/planewalker) pour le texte, [Keyrune](https://keyrune.andrewgioia.com/index.html) pour les symboles d'extension, [Alexandre Arpin's Font](http://alexandrearpin.com/mtg-font/icons.html) pour les autres symboles ; <!-- TODO: there is also this font, which includes Planeswalker symbols: https://mana.andrewgioia.com/icons.html -->
 - Utilise la base de données `AllPrintings.sqlite` du projet [MTG JSON](https://mtgjson.com/downloads/all-files/#allprintings) pour vérifier certaines réponses ;
-- Open-source et libre, [sur mon GitHub](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)
-- [MIT Licensed](https://lbesson.mit-license.org/), (c) [Lilian Besson (Naereen), 2024](https://besson.link)
+- Open-source et libre, [sur mon GitHub](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons) ;
+- [MIT Licensed](https://lbesson.mit-license.org/), (c) [Lilian Besson (Naereen), 2024](https://besson.link).
 </small>
