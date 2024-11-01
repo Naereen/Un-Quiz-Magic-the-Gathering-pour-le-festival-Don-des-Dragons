@@ -32,15 +32,23 @@ Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou 
 
 - Comment s'appelle l'extension ayant ce symbole ?
 
-<center><i class="ss ss-sth ss-6x"></i></center>
+<!-- <center style="zoom: 150%;"><i class="ss ss-sth ss-6x"></i></center> -->
+<!-- <center style="zoom: 150%;"><i class="ss ss-lgn ss-6x"></i></center> -->
+<center style="zoom: 150%;"><i class="ss ss-con ss-6x"></i></center>
+
 
 - **Bonus** : *estimer* en quelle année elle est sortie ?
 
 ::: notes
 
-**Réponse** : extension Forteresse (Stronghold)
-Stronghold (STH)
-143 cards, sortie le 02 mars 1998
+<!-- **Réponse** : extension Forteresse (Stronghold, STH)
+143 cards, sortie le 02 mars 1998 -->
+
+<!-- **Réponse** : extension Légions (Legions, LGN)
+145 cartes, sortie le 03 février 2003 -->
+
+**Réponse** : extension Conflux (Conflux, CON)
+145 cartes, sortie le 06 février 2009
 
 :::
 
@@ -82,14 +90,14 @@ See: https://mtgjson.com/downloads/all-files/#allprintings
 Qui emprisonna [**Nicol Bolas**](https://scryfall.com/card/tsb/98/nicol-bolas) sur le plan de *Dominaria*,
 avant sa libération lors des événements du [bloc Spirale Temporelle](https://scryfall.com/sets/tsp) ?
 
-<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/tsb/98/nicol-bolas" src="cardes-images/tsb-98-nicol-bolas.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/tsb/98/nicol-bolas" src="cardes-images/tsb-98-nicol-bolas.jpg" />
 
 <br>
 
-> 1. Son frère [Ugin](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
-> 2. Son rival [Arcades Sabboth](https://scryfall.com/card/dmr/355/arcades-sabboth)
-> 3. Le héro [Tetsuo Umezawa](https://scryfall.com/card/leg/262/tetsuo-umezawa)
-> 4. L'arpenteur [Urza](https://scryfall.com/card/bro/238b/urza-planeswalker)
+> 1. Son frère, [Ugin](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
+> 2. Un rival, [Arcades Sabboth](https://scryfall.com/card/dmr/355/arcades-sabboth)
+> 3. Un héro antique, [Tetsuo Umezawa](https://scryfall.com/card/leg/262/tetsuo-umezawa)
+> 4. Un arpenteur, [Urza](https://scryfall.com/card/bro/238b/urza-planeswalker)
 
 ::: notes
 
@@ -107,14 +115,14 @@ Antoine enchante sa [**Cavernes aux gemmes**](https://scryfall.com/card/tsr/280/
 Au tour suivant, Nathan lance [**Mage de la lune**](https://scryfall.com/card/tsr/175/magus-of-the-moon).
 
 <center>
-<img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/tsr/280/gemstone-caverns" src="cardes-images/tsr-280-gemstone-caverns.jpg" />
-<img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/afc-150-abundant-growth.jpg" />
-<img style="width: 20vh; opacity: 95%;" alt="https://scryfall.com/card/tsr/175/magus-of-the-moon" src="cardes-images/tsr-175-magus-of-the-moon.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/tsr/280/gemstone-caverns" src="cardes-images/tsr-280-gemstone-caverns.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/afc-150-abundant-growth.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/tsr/175/magus-of-the-moon" src="cardes-images/tsr-175-magus-of-the-moon.jpg" />
 </center>
 
 . . .
 
-Quelle(s) couleur(s) de mana les **Cavernes aux gemmes** pourront-elles désormais produire en s'engageant <i class="mi mi-tap mi-mana mi-1x"></i> ?
+Quelle(s) couleur(s) de mana les [**Cavernes aux gemmes**](https://scryfall.com/card/tsr/280/gemstone-caverns) pourront-elles désormais produire en s'engageant <i class="mi mi-tap mi-mana mi-1x"></i> ?
 
 ::: notes
 
@@ -128,7 +136,7 @@ Quelle(s) couleur(s) de mana les **Cavernes aux gemmes** pourront-elles désorma
 
 . . .
 
-Laquelle de ces éditions n'a **<ins>pas de carte ayant le même nom</ins>** (VF ou VO) :
+Laquelle de ces éditions n'a **<ins>pas de carte à son nom</ins>** (VF ou VO) :
 
 <br>
 
@@ -154,7 +162,7 @@ Laquelle de ces éditions n'a **<ins>pas de carte ayant le même nom</ins>** (VF
 
 . . .
 
-Laquelle de ces cartes n'est **<ins>pas légale</ins>** en Pauper ?
+Laquelle de ces cartes communes n'est **<ins>pas légale</ins>** en Pauper ?
 
 > 1. [Étude Rhystique (Rystic Study)](https://scryfall.com/card/pcy/45/fr/etude-rhystique)
 > 2. [Hébétude (Daze)](https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude)
@@ -162,7 +170,7 @@ Laquelle de ces cartes n'est **<ins>pas légale</ins>** en Pauper ?
 > 4. [Rémora mystique (Mystic Remora)](https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique)
 
 <center>
-<img style="width: 15vh; opacity: 95%;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 15vh; opacity: 95%;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 15vh; opacity: 95%;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 15vh; opacity: 95%;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
+<img style="width: 15vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
 </center>
 
 ::: notes
@@ -178,10 +186,13 @@ Les quatre ont été éditées dans leur première édition à la rareté commun
 ## Question 6/20 : sur le format Pauper - Bonus (dure)
 
 <center>
-<img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 22.5vh; opacity: 95%;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
+<img style="width: 22.5vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
 </center>
 
-**Bonus :** estimer le prix moyen sur CardMarket.com de votre réponse, dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir).
+**Bonus :** laquelle de ces quatre cartes a le prix moyen sur CardMarket.com le plus élevé ?
+Dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir).
+
+<!-- **Bonus :** estimer le prix moyen sur CardMarket.com de votre réponse, dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir). -->
 
 ::: notes
 
@@ -198,6 +209,8 @@ TODO: rafraîchir la réponse la veille du quiz !
 
 Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc pas à bords argentés) ?
 
+<br>
+
 > 1. <i class="mi mi-13 mi-mana mi-1x"></i> (13)
 > 2. <i class="mi mi-15 mi-mana mi-1x"></i> (15)
 > 3. <i class="mi mi-16 mi-mana mi-1x"></i> (16)
@@ -207,7 +220,7 @@ Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc
 
 La réponse est 16, avec la carte [Draco](https://scryfall.com/search?q=draco+cmc%3D16) de l'extension Planeshift sortie en 2001.
 
-<img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" />
+<img style="float: right; width: 25vh;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" />
 
 En comptant les cartes à bords argentés, il s'agit de [**Gleemax**](https://scryfall.com/card/unh/121/gleemax) qui a un coût de mana de 1.000.000 (un million de manas incolores).
 
@@ -215,20 +228,21 @@ En comptant les cartes à bords argentés, il s'agit de [**Gleemax**](https://sc
 
 ----
 
-## Question 8/20 : connaissance des cartes
+## Question 8/20 : sur une illustration très originale, que j'aime beaucoup
 
 . . .
 
-Combien existe-t-il de créature(s), imprimées sur une carte à bord noirs, ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
+<img style="float: right; margin-right: -5vh; width: 65vh;" alt="https://scryfall.com/card/avr/173/fr/chemin-des-descendants" src="cardes-images/avr-173-descendants-path.jpg" />
+Qui est l'artiste ayant illustré la carte [**Chemin des descendants**](https://scryfall.com/card/avr/173/fr/chemin-des-descendants) de l'édition Avacyn Restored en 2012 ?
 
-> 1. aucune (zéro)
-> 2. une seule
-> 3. deux
-> 4. cinq
+> 1. [**Rebecca Guay**](https://scryfall.com/search?q=a%3A%E2%80%9CRebecca+Guay%E2%80%9D&unique=art&as=grid&order=name)
+> 2. [**Rob Alexander**](https://scryfall.com/search?q=a%3A%E2%80%9CRob+Alexander%E2%80%9D&unique=art&as=grid&order=name)
+> 3. [**Terese Nielsen**](https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&unique=art&as=grid&order=name)
+> 4. [**Aleksi Briclot**](https://scryfall.com/search?q=a%3A%E2%80%9CAleksi+Briclot%E2%80%9D&unique=art)
 
 ::: notes
 
-Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com/card/fut/126/force-of-savagery), une jolie créature 8/0 imprimée dans la très étrange extension Vision du Futur (Future Sight).
+**Réponse** : TODO:
 
 :::
 
@@ -238,9 +252,9 @@ Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com
 
 . . .
 
-Dans votre bibliothèque, quelle est la force du [Changeforme corrompu](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
+Dans votre bibliothèque, quelle est la force de cet étrange [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
 
-<img style="float: right; width: 30vh; opacity: 95%;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
+<img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
 > 1. zéro car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
 > 2. trois car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
@@ -262,14 +276,14 @@ Dans votre bibliothèque, quelle est la force du [Changeforme corrompu](https://
 
 Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/card/lea/232/black-lotus)** ont été imprimés dans l'édition <i class="ss ss-lea ss-1x"></i> Alpha à l'origine du jeu *Magic: the Gathering* ?
 
-<img style="float: right; width: 27vh; opacity: 95%;" alt="https://scryfall.com/card/lea/232/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" />
+<img style="float: right; width: 27vh;" alt="https://scryfall.com/card/lea/232/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" />
 
 <br>
 
-> 1. 190
-> 2. 1100
-> 3. 25000
-> 4. 360000
+> 1. *190*
+> 2. *1100*
+> 3. *25000*
+> 4. *360000*
 
 ::: notes
 
@@ -286,7 +300,7 @@ TODO: Je n'ai pas la source de cette réponse, je l'ai trouvée sur [ce quiz fai
 
 Qu'est-ce qui a finalement ruiné la si belle journée de ce bon vieux **[Hans Ericksson](https://scryfall.com/card/cmr/279/fr/hans-eriksson)** ?
 
-<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/cmr/279/fr/hans-eriksson" src="cardes-images/cmr-279-hans-eriksson.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/cmr/279/fr/hans-eriksson" src="cardes-images/cmr-279-hans-eriksson.jpg" />
 
 <br>
 
@@ -317,10 +331,10 @@ Donner le coût de mana de la carte que vous avez choisi.
 
 <br>
 
-1. Une [**Patrouille gobeline à ski**](https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski)
-2. Une [**Chute de neige**](https://scryfall.com/card/ice/101/fr/chute-de-neige)
-3. Le [**Lhurgoyf**](https://scryfall.com/card/m3c/235/fr/lhurgoyf)
-4. Un [**Bonhomme de neige gobelin**](https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin)
+1. [**Patrouille gobeline à ski**](https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski)
+2. [**Chute de neige**](https://scryfall.com/card/ice/101/fr/chute-de-neige)
+3. [**Lhurgoyf**](https://scryfall.com/card/m3c/235/fr/lhurgoyf)
+4. [**Bonhomme de neige gobelin**](https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin)
 
 ----
 
@@ -328,17 +342,16 @@ Donner le coût de mana de la carte que vous avez choisi.
 
 . . .
 
-J'ai effacé sa rareté avec <s>Photoshop</s> GIMP...<br>
-De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien) ?
+Oups, sa rareté a eté effacée... De quelle rareté est cette carte, le [**Biomathématicien**](https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien) ?
 
-<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician-sans-rarete.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician-sans-rarete.jpg" />
 
 <br>
 
-> 1. Commune
-> 2. Peu-commune
-> 3. Rare
-> 4. Rare mythique
+> 1. <span style="color: black;">**Commune**</span>
+> 2. <span style="color: darkgray;">**Peu-commune**</span>
+> 3. <span style="color: #ffea00;">**Rare**</span>
+> 4. <span style="color: #ff7300;">**Rare mythique**</span>
 
 ::: notes
 
@@ -354,7 +367,7 @@ De quelle rareté est cette carte, le [Biomathématicien](https://scryfall.com/c
 
 Il y a quelques semaines, les futurs Secret Lairs **Magic / Marvel** ont été annoncés.
 
-Lequel(s) de ces super héros n'a **<ins>pas</ins>** été annoncé(s) ?
+Lequel(s) de ces super héros n'a **<ins>pas</ins>** (encore ?) été annoncé(s) ?
 *Il faut avoir la bonne ou toutes les bonnes réponses.*
 
 > 1. [**Tornade**](https://scryfall.com/card/sld/1742/storm-force-of-nature) (**Storm**)
@@ -377,7 +390,7 @@ TODO: vérifier que ce soit toujours correct !
 
 Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée [**Urza, Planeswalker**](https://scryfall.com/card/bro/238b/urza-planeswalker) ?
 
-<img style="float: right; width: 28vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
+<img style="float: right; width: 28vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
 
 <br>
 
@@ -390,7 +403,7 @@ Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir 
 
 Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone), comme on peut le voir sur la vraie version de la carte que j'avais modifiée :
 
-<img style="float: right; width: 31vh; opacity: 95%;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" />
 
 :::
 
@@ -443,8 +456,8 @@ En considérant les cartes à bords argentés (Un-set) et les jetons que celles-
 
 Mais, il faut aussi ajouter toutes les couleurs imaginables, car [**Avatar of Me**](https://scryfall.com/card/und/17/avatar-of-me) est de la couleur des yeux de son contrôleur...
 
-> **Notes and Rules Information** for **Avatar of Me**: 
-> Thanks to Avatar of Me, if you’re asked to choose a color in a silver-bordered game, you can name any color. [...]
+> **Notes and Rules Information** for **Avatar of Me**:
+> Thanks to Avatar of Me, if you're asked to choose a color in a silver-bordered game, you can name any color. [...]
 
 :::
 
@@ -454,7 +467,7 @@ Mais, il faut aussi ajouter toutes les couleurs imaginables, car [**Avatar of Me
 
 . . .
 
-Quel est le plan du multivers le plus souvent visité par les extensions et le plus détaillé à ce jour ?
+Quel est plan du multivers a été le plus souvent visité par les extensions officielles de Magic, à ce jour ?
 
 <br>
 
@@ -465,28 +478,30 @@ Quel est le plan du multivers le plus souvent visité par les extensions et le p
 
 ::: notes
 
-**Réponse** : Dominaria, sans avoir besoin de justifier.
+**Réponse** : Dominaria, sans avoir besoin de justifier... C'est évident si on connaît le début de Magic.
 
 :::
 
 ----
 
-## Question 18/20 : estimation statistique sur les cartes (dure)
+## Question 18/20 : estimation statistique (dure)
 
 . . .
 
 Qui est l'artiste ayant illustré le plus de cartes différentes ?
+<br>**Bonus** : estimer pour combien de cartes ?
+
 <small>
-<br>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*
-
-> 1. *Dan Frazier*
-> 2. *John Avon*
-> 3. *Kev Walker*
-> 4. *Greg Staples*
-
+<span style="float: left; width: 65vh;"><em>En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.</em></span>
+<img style="float: right; width: 45vh;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" />
 </small>
 
-<center><img style="width: 40vh; opacity: 95%;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" /></center>
+<br><br><br>
+
+> 1. [*Dan Frazier*](https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name)
+> 2. [*John Avon*](https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name)
+> 3. [*Kev Walker*](https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name)
+> 4. [*Greg Staples*](https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name)
 
 ::: notes
 
@@ -498,33 +513,17 @@ Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://s
 
 ----
 
-## Question 18/20 : estimation statistique sur les cartes (dure) - Bonus
+## Question 19/20 : "œil de lynx" sur une carte *fun*
 
 . . .
 
-**Question précédente** : Qui est l'artiste ayant illustré le plus de cartes différentes ?
-<!-- <small>*En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.*</small> -->
-<br>**Bonus** : estimer le nombre de cartes différentes illustrées par l'artiste de votre choix.
-
-1. *Dan Frazier*
-2. *John Avon*
-3. *Kev Walker*
-4. *Greg Staples*
-
-----
-
-## Question 19/20 : "œil de lynx" sur une carte que j'adore
-
-. . .
-
+<img style="float: right; width: 37vh;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" />
 Comme un pro de <s>Photoshop</s> GIMP, j'ai modifié un petit détail sur cette carte, la [**Goblin Ski Patrol**](https://scryfall.com/card/ice/190/goblin-ski-patrol) datant d'Ice Age (1995)... Qu'ai-je modifié ?
 
-<img style="float: right; width: 27vh; opacity: 95%;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" />
-
-> 1. L'illustration, j'ai ajouté des cornes
-> 2. Le coût de mana, en vrai c'est <i class="mi mi-4 mi-mana mi-shadow mi-1x"></i><i class="mi mi-mana mi-r mi-shadow mi-1x"></i>
+> 1. L'illustration, j'ai ajouté des cornes !
+> 2. Le coût de mana, en vrai c'est <i class="mi mi-4 mi-mana mi-shadow mi-1x"></i><i class="mi mi-mana mi-r mi-shadow mi-1x"></i> (autre époque, hein ?)
 > 3. L'illustration, j'ai enlevé la signature de Mark Poole en bas à droite
-> 4. Le nom du gobelin cité en texte d'ambiance
+> 4. Le nom du gobelin cité en texte d'ambiance...
 
 ::: notes
 
@@ -541,11 +540,12 @@ Comme un pro de <s>Photoshop</s> GIMP, j'ai modifié un petit détail sur cette 
 <!-- https://rulesguru.org/?1177 -->
 <!-- <i class="ms ms-loyalty-down ms-loyalty-1 ms-2x"></i> -->
 
-Je contrôle [**Padeem, Consul de l'Innovation**](https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation), ainsi qu'une [**Baliste ambulante**](https://scryfall.com/card/sld/1265/walking-ballista) ayant été lancée pour X valant un million (ça annonce la fin de partie...). Aucun autre permanent n'a atteint de valeur aussi impressionnante...
+Je contrôle [**Padeem, Consul de l'Innovation**](https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation), ainsi qu'une [**Baliste ambulante**](https://scryfall.com/card/sld/1265/walking-ballista) ayant été lancée pour X valant un million (balèze !).<br>
+Aucun autre permanent présent n'a atteint de valeur aussi impressionnante.
 
-<img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/j22/806/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh; opacity: 95%;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" />
+<img style="float: right; width: 25vh;" alt="https://scryfall.com/card/2xm/306/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" />
 
-A mon entretien, vais-je **<ins>forcément</ins>** piocher, par la capacité de Padeem ?
+A mon entretien, suis-je **<ins>certain</ins>** de piocher, par la capacité de Padeem ?
 
 > 1. **Oui**
 > 2. **Non**
@@ -558,22 +558,22 @@ A mon entretien, vais-je **<ins>forcément</ins>** piocher, par la capacité de 
 
 ----
 
-## Question 21/20 (bonus) : sur une illustration que j'adore
+## Question 21/20 connaissance des cartes
 
 . . .
 
-Qui est l'artiste ayant (magnifiquement) dessiné l'illustration de la carte [**Chemin des descendants**](https://scryfall.com/card/avr/173/fr/chemin-des-descendants) dans l'édition Avacyn Restored en 2012 ?
+<!-- TODO: move to Q21 ? -->
 
-<img style="float: right; width: 50vh; opacity: 95%;" alt="https://scryfall.com/card/avr/173/fr/chemin-des-descendants" src="cardes-images/avr-173-descendants-path.jpg" />
+Combien existe-t-il de créature(s), imprimées sur une carte à bord noirs, ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
 
-> 1. [**Rebecca Guay**](https://scryfall.com/search?q=a%3A%E2%80%9CRebecca+Guay%E2%80%9D&unique=art&as=grid&order=name)
-> 2. [**Rob Alexander**](https://scryfall.com/search?q=a%3A%E2%80%9CRob+Alexander%E2%80%9D&unique=art&as=grid&order=name)
-> 3. [**Terese Nielsen**](https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&unique=art&as=grid&order=name)
-> 4. [**Aleksi Briclot**](https://scryfall.com/search?q=a%3A%E2%80%9CAleksi+Briclot%E2%80%9D&unique=art)
+> 1. aucune (zéro)
+> 2. une seule
+> 3. deux
+> 4. cinq
 
 ::: notes
 
-**Réponse** : TODO:
+Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com/card/fut/126/force-of-savagery), une jolie créature 8/0 imprimée dans la très étrange extension Vision du Futur (Future Sight).
 
 :::
 
@@ -594,11 +594,13 @@ Qui est l'artiste ayant (magnifiquement) dessiné l'illustration de la carte [**
 ## A propos de cette présentation
 
 <small>
-- *Astuce* : utilisez "S" / "B" pour diminer/augmenter la taille du texte ;
+
+- *Astuce* : utilisez "S" / "B" pour diminuer/augmenter la taille du texte ;
 - Écrite en [Markdown](https://en.wikipedia.org/wiki/Markdown), un langage à balise léger et libre ;
 - Convertie en slides web avec [`pandoc`](https://pandoc.org/), avec l'option "slidy" ;
 - Utilise les polices spéciales *Magic the Gathering* : [Planewalker](https://www.cufonfonts.com/font/planewalker) pour le texte, [Keyrune](https://keyrune.andrewgioia.com/index.html) pour les symboles d'extension, [Alexandre Arpin's Font](http://alexandrearpin.com/mtg-font/icons.html) pour les autres symboles ; <!-- TODO: there is also this font, which includes Planeswalker symbols: https://mana.andrewgioia.com/icons.html -->
 - Utilise la base de données `AllPrintings.sqlite` du projet [MTG JSON](https://mtgjson.com/downloads/all-files/#allprintings) pour vérifier certaines réponses ;
 - Open-source et libre, [sur mon GitHub](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons) ;
 - [MIT Licensed](https://lbesson.mit-license.org/), (c) [Lilian Besson (Naereen), 2024](https://besson.link).
+
 </small>
