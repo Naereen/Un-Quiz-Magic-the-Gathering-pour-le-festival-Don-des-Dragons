@@ -252,14 +252,14 @@ Qui est l'artiste ayant illustré la carte [**Chemin des descendants**](https://
 
 . . .
 
-Dans votre bibliothèque, quelle est la force de cet étrange [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
+Dans ta bibliothèque, quelle est la force du [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
 
 <img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
-> 1. zéro car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
-> 2. trois car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
-> 3. votre choix parmi zéro, deux et trois, car sa capacité est une capacité de définition de caractéristique à choix multiple ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
-> 4. zéro car c'est le dernier choix imprimé sur la carte ([règle 604.3c.](https://yawgatog.com/resources/magic-rules/#R6043))
+> 1. zéro, car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
+> 2. trois, car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
+> 3. ton choix parmi zéro, deux et trois, car sa capacité est une capacité de définition de caractéristique à choix multiple ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
+> 4. zéro, car c'est le dernier choix imprimé sur la carte ([règle 604.3c.](https://yawgatog.com/resources/magic-rules/#R6043))
 </div>
 
 ::: notes
@@ -270,11 +270,11 @@ Dans votre bibliothèque, quelle est la force de cet étrange [**Changeforme cor
 
 ----
 
-## Question 10/20 : estimation statistique sur les cartes
+## Question 10/20 : estimation statistique
 
 . . .
 
-Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/card/lea/232/black-lotus)** ont été imprimés dans l'édition <i class="ss ss-lea ss-1x"></i> Alpha à l'origine du jeu *Magic: the Gathering* ?
+Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/card/lea/232/black-lotus)** ont été imprimés dans l'édition <i class="ss ss-lea ss-1x"></i> Alpha, à l'origine du jeu *Magic: the Gathering* en 1993 ?
 
 <img style="float: right; width: 27vh;" alt="https://scryfall.com/card/lea/232/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" />
 
@@ -350,7 +350,7 @@ Oups, sa rareté a eté effacée... De quelle rareté est cette carte, le [**Bio
 
 > 1. <span style="color: black;">**Commune**</span>
 > 2. <span style="color: darkgray;">**Peu-commune**</span>
-> 3. <span style="color: #ffea00;">**Rare**</span>
+> 3. <span style="color: #ffe600;">**Rare**</span>
 > 4. <span style="color: #ff7300;">**Rare mythique**</span>
 
 ::: notes
@@ -361,7 +361,7 @@ Oups, sa rareté a eté effacée... De quelle rareté est cette carte, le [**Bio
 
 ----
 
-## Question 13/20 : connaissance des cartes
+## Question 13/20 : connaissance des extensions *"Univers Étendus"*
 
 . . .
 
@@ -388,11 +388,8 @@ TODO: vérifier que ce soit toujours correct !
 
 . . .
 
+<img style="float: right; width: 37vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
 Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée [**Urza, Planeswalker**](https://scryfall.com/card/bro/238b/urza-planeswalker) ?
-
-<img style="float: right; width: 28vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
-
-<br>
 
 > 1. La [**Pierre de soumission**](https://scryfall.com/card/fbb/264/fr/pierre-de-soumission)
 > 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone)
@@ -413,8 +410,11 @@ Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/ca
 
 . . .
 
-Si l'on joue avec 20 points de vie, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leurs caractéristiques et avec aucun autre permanent sur le champ de bataille de son côté.
-Quelles sont ces deux créatures ? Choisissez exactement deux réponses.
+<!-- Si l'on joue avec 20 points de vie, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leurs caractéristiques et avec aucun autre permanent sur le champ de bataille de son côté. -->
+<!-- Quelles sont ces deux créatures ? Choisissez exactement deux réponses. -->
+Parmi les cartes légales en Modern, seulement deux créatures peuvent éliminer un adversaire en une seule attaque. Lesquelles ?
+
+<br>
 
 > 1. [**Étali, mal primordial**](https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial)
 > 2. [**Colosse de sombracier**](https://scryfall.com/card/fdn/671/darksteel-colossus)
@@ -434,14 +434,14 @@ Les deux autres n'ont pas l'infection et ont une force de 11 pour le Colosse de 
 
 . . .
 
-En considérant les cartes à bords argentés (Un-set) et les jetons que celles-ci peuvent créer, combien de couleurs existent en tout dans Magic ?
+En considérant les cartes à bords argentés (les *"Un-set"*) et les jetons que celles-ci peuvent créer, combien de couleurs existent en tout dans Magic ?
 
 <br>
 
-> 1. six : cinq couleurs + l'incolore
-> 2. six : cinq couleurs + le rose
-> 3. sept : cinq couleurs + le rose + le doré
-> 4. autant que l'on veut, puisqu'on peut nommer *la couleur de ses yeux* !
+> 1. **six** : cinq couleurs + l'incolore
+> 2. **six** : cinq couleurs + le rose
+> 3. **sept** : cinq couleurs + le rose + le doré
+> 4. **autant que l'on veut**, car on peut nommer la *"couleur de ses yeux"* !
 
 ::: notes
 
@@ -488,11 +488,11 @@ Quel est plan du multivers a été le plus souvent visité par les extensions of
 
 . . .
 
-Qui est l'artiste ayant illustré le plus de cartes différentes ?
-<br>**Bonus** : estimer pour combien de cartes ?
+Qui est l'artiste ayant illustré le plus de cartes différentes (versions papier) ?
+**Bonus** : estimer pour combien de cartes ?
 
 <small>
-<span style="float: left; width: 65vh;"><em>En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un artiste particulier.</em></span>
+<span style="float: left; width: 65vh;"><em>En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un/une artiste particulier.</em></span>
 <img style="float: right; width: 45vh;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" />
 </small>
 
@@ -521,7 +521,7 @@ Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://s
 Comme un pro de <s>Photoshop</s> GIMP, j'ai modifié un petit détail sur cette carte, la [**Goblin Ski Patrol**](https://scryfall.com/card/ice/190/goblin-ski-patrol) datant d'Ice Age (1995)... Qu'ai-je modifié ?
 
 > 1. L'illustration, j'ai ajouté des cornes !
-> 2. Le coût de mana, en vrai c'est <i class="mi mi-4 mi-mana mi-shadow mi-1x"></i><i class="mi mi-mana mi-r mi-shadow mi-1x"></i> (autre époque, hein ?)
+> 2. Le coût de mana, en vrai c'est <i class="mi mi-4 mi-mana mi-1x"></i><i class="mi mi-mana mi-r mi-1x"></i>
 > 3. L'illustration, j'ai enlevé la signature de Mark Poole en bas à droite
 > 4. Le nom du gobelin cité en texte d'ambiance...
 
@@ -543,7 +543,7 @@ Comme un pro de <s>Photoshop</s> GIMP, j'ai modifié un petit détail sur cette 
 Je contrôle [**Padeem, Consul de l'Innovation**](https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation), ainsi qu'une [**Baliste ambulante**](https://scryfall.com/card/sld/1265/walking-ballista) ayant été lancée pour X valant un million (balèze !).<br>
 Aucun autre permanent présent n'a atteint de valeur aussi impressionnante.
 
-<img style="float: right; width: 25vh;" alt="https://scryfall.com/card/2xm/306/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" />
+<img style="float: right; width: 26vh;" alt="https://scryfall.com/card/2xm/306/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" />
 
 A mon entretien, suis-je **<ins>certain</ins>** de piocher, par la capacité de Padeem ?
 
@@ -558,13 +558,13 @@ A mon entretien, suis-je **<ins>certain</ins>** de piocher, par la capacité de 
 
 ----
 
-## Question 21/20 connaissance des cartes
+## Question 21/20 : connaissance des cartes - Bonus pour départager, si besoin
 
 . . .
 
 <!-- TODO: move to Q21 ? -->
 
-Combien existe-t-il de créature(s), imprimées sur une carte à bord noirs, ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
+Combien existe-t-il de créature(s), à bord noirs (pas de *"Un-Set"*), ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
 
 > 1. aucune (zéro)
 > 2. une seule
@@ -591,7 +591,7 @@ Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com
 
 ----
 
-## A propos de cette présentation
+## A propos de ce *Quiz Magic*
 
 <small>
 
