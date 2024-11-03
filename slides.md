@@ -579,7 +579,7 @@ Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com
 
 ----
 
-## Question 21/20 : connaissance des cartes - Bonus pour départager, si besoin
+## Question 22/20 : connaissance des cartes - Bonus pour départager, si besoin
 
 . . .
 
