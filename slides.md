@@ -94,14 +94,14 @@ avant sa libération lors des événements du [bloc Spirale Temporelle](https://
 
 <br>
 
-> 1. Son frère, [Ugin](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
-> 2. Un rival, [Arcades Sabboth](https://scryfall.com/card/dmr/355/arcades-sabboth)
-> 3. Un héro antique, [Tetsuo Umezawa](https://scryfall.com/card/leg/262/tetsuo-umezawa)
-> 4. Un arpenteur, [Urza](https://scryfall.com/card/bro/238b/urza-planeswalker)
+> 1. Son frère, [**Ugin**](https://scryfall.com/card/m3c/160/ugin-the-ineffable)
+> 2. Un rival, [**Arcades Sabboth**](https://scryfall.com/card/dmr/355/arcades-sabboth)
+> 3. Un héro antique, [**Tetsuo Umezawa**](https://scryfall.com/card/leg/262/tetsuo-umezawa)
+> 4. Un arpenteur, [**Urza**](https://scryfall.com/card/bro/238b/urza-planeswalker)
 
 ::: notes
 
-**Réponse** : Tetsuo Umezawa
+**Réponse** : 3. Un héro antique, [**Tetsuo Umezawa**](https://scryfall.com/card/leg/262/tetsuo-umezawa)
 
 :::
 
@@ -140,14 +140,14 @@ Laquelle de ces éditions n'a **<ins>pas de carte à son nom</ins>** (VF ou VO) 
 
 <br>
 
-> 1. [Épopée d'Urza (USG)](https://scryfall.com/sets/usg)
-> 2. [Chaos planaire (PLC)](https://scryfall.com/sets/plc)
-> 3. [Visions de l'avenir (FUT)](https://scryfall.com/sets/fut)
-> 4. [Destin reforgé (FRF)](https://scryfall.com/sets/frf)
+> 1. [**Épopée d'Urza** (USG)](https://scryfall.com/sets/usg)
+> 2. [**Chaos planaire** (PLC)](https://scryfall.com/sets/plc)
+> 3. [**Visions de l'avenir** (FUT)](https://scryfall.com/sets/fut)
+> 4. [**Destin reforgé** (FRF)](https://scryfall.com/sets/frf)
 
 ::: notes
 
-**Réponse** : Destin reforgé
+**Réponse** : 4. [**Destin reforgé** (FRF)](https://scryfall.com/sets/frf) n'a pas de carte à son nom.
 
 > 1. <i class="ss ss-usg ss-1x"></i> Urza's Saga (usg) a [sa carte dans Modern Horizon 2 (MH2)](https://scryfall.com/card/mh2/259/urzas-saga)
 > 2. <i class="ss ss-plc ss-1x"></i> Planar Chaos (plc) a [sa carte dans Jugement (JUD)](https://scryfall.com/card/jud/97/planar-chaos)
@@ -164,10 +164,10 @@ Laquelle de ces éditions n'a **<ins>pas de carte à son nom</ins>** (VF ou VO) 
 
 Laquelle de ces cartes communes n'est **<ins>pas légale</ins>** en Pauper ?
 
-> 1. [Étude Rhystique (Rystic Study)](https://scryfall.com/card/pcy/45/fr/etude-rhystique)
-> 2. [Hébétude (Daze)](https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude)
-> 3. [Pétal de lotus (Lotus Petal)](https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus)
-> 4. [Rémora mystique (Mystic Remora)](https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique)
+> 1. [**Étude Rhystique** (Rystic Study)](https://scryfall.com/card/pcy/45/fr/etude-rhystique)
+> 2. [**Hébétude** (Daze)](https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude)
+> 3. [**Pétal de lotus** (Lotus Petal)](https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus)
+> 4. [**Rémora mystique** (Mystic Remora)](https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique)
 
 <center>
 <img style="width: 15vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
@@ -175,9 +175,9 @@ Laquelle de ces cartes communes n'est **<ins>pas légale</ins>** en Pauper ?
 
 ::: notes
 
-**Réponse** : Hébétude (Daze)
+**Réponse** : 2. [**Hébétude** (Daze)](https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude)
 
-Les quatre ont été éditées dans leur première édition à la rareté commune, mais Hébétude (Daze) est la seule à être **bannie en Pauper**.
+Les quatre ont été éditées dans leur première édition à la rareté commune, mais 2. [**Hébétude** (Daze)](https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude) est la seule à être **bannie en Pauper**.
 
 :::
 
@@ -242,7 +242,7 @@ Qui est l'artiste ayant illustré la carte [**Chemin des descendants**](https://
 
 ::: notes
 
-**Réponse** : TODO:
+**Réponse** : il s'agit de 3. [**Terese Nielsen**](https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&unique=art&as=grid&order=name).
 
 :::
 
@@ -256,15 +256,15 @@ Dans ta bibliothèque, quelle est la force du [**Changeforme corrompu**](https:/
 
 <img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
-> 1. zéro, car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
-> 2. trois, car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
-> 3. ton choix parmi zéro, deux et trois, car sa capacité est une capacité de définition de caractéristique à choix multiple ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
-> 4. zéro, car c'est le dernier choix imprimé sur la carte ([règle 604.3c.](https://yawgatog.com/resources/magic-rules/#R6043))
+> 1. **zéro**, car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
+> 2. **trois**, car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
+> 3. **ton choix parmi zéro, deux et trois**, car sa capacité est une capacité de définition de caractéristique à choix multiple ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
+> 4. **zéro**, car c'est le dernier choix imprimé sur la carte ([règle 604.3c.](https://yawgatog.com/resources/magic-rules/#R6043))
 </div>
 
 ::: notes
 
-**Réponse** : 1. zéro, sa capacité n'est pas une capacité de définition de caractéristique, comme expliqué dans la règle [règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a).
+**Réponse** : 1. **zéro**, sa capacité n'est pas une capacité de définition de caractéristique, comme expliqué dans la règle [règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a).
 
 :::
 
@@ -562,8 +562,6 @@ A mon entretien, suis-je **<ins>certain</ins>** de piocher, par la capacité de 
 
 . . .
 
-<!-- TODO: move to Q21 ? -->
-
 Combien existe-t-il de créature(s), à bord noirs (pas de *"Un-Set"*), ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
 
 > 1. aucune (zéro)
@@ -574,6 +572,33 @@ Combien existe-t-il de créature(s), à bord noirs (pas de *"Un-Set"*), ayant un
 ::: notes
 
 Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com/card/fut/126/force-of-savagery), une jolie créature 8/0 imprimée dans la très étrange extension Vision du Futur (Future Sight).
+
+:::
+
+----
+
+----
+
+## Question 21/20 : connaissance des cartes - Bonus pour départager, si besoin
+
+. . .
+
+Combien existe-t-il de cartes en tout, qui représentent les parents du plus mignon petit singe de tout Magic, [**Kibo, prince de l'Ouktabi**](https://scryfall.com/card/j22/40/fr/kibo-prince-de-louktabi) ?
+
+> 1. aucune, **Kibo** n'existe pas et a été inventé pour cette question !
+> 2. une seule, l'[**Orang-outang de l'Ouktabi**](https://scryfall.com/card/vis/123/uktabi-orangutan) de Visions (1996),
+> 3. deux, avec aussi le [**Uktabi Kong**](https://scryfall.com/card/unh/115/uktabi-kong) à bords argentés,
+> 4. trois, **Kibo** lui-même étant représenté avec ses parents.
+
+::: notes
+
+Réponse : trois, **Kibo** lui-même étant représenté avec ses parents.
+
+<center>
+<img style="width: 27vh;" alt="https://scryfall.com/card/vis/123/uktabi-orangutan" src="cardes-images/vis-123-uktabi-orangutan.jpg" />
+<img style="width: 27vh;" alt="https://scryfall.com/card/unh/115/uktabi-kong" src="cardes-images/unh-115-uktabi-kong.jpg" />
+<img style="width: 27vh;" alt="https://scryfall.com/card/j22/40/kibo-uktabi-prince" src="cardes-images/j22-40-kibo-uktabi-prince.jpg" />
+</center>
 
 :::
 
