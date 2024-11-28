@@ -15,10 +15,10 @@ Bienvenue dans ce quiz sur *Magic: the Gathering* <i class="mi mi-planeswalk mi-
 
 Il y aura *20* questions, 5 fois de suite selon ce motif :
 
-- 4 questions "plutôt faciles", en QCM à deux ou quatre choix,
-  valant 1 point chacune,
 - 1 question "plus dure", valant 2 points chacune,
   avec un bonus valant 1 point de plus !
+- 4 questions "plutôt faciles", en QCM à deux ou quatre choix,
+  valant 1 point chacune,
 
 . . .
 
@@ -73,11 +73,12 @@ Quel type de créature est le **<ins>second</ins> le plus représenté** <span s
 
 > 1. 148 dragons rouges
 > 2. 497 humains rouges
-> 3. **<span style="color:red;">370 goblins rouges</span>** : **c'est donc la bonne réponse**
->    (vérifiée en SQL avec [la base de données complète des cartes Magic the Gathering](https://mtgjson.com/downloads/all-files/#allprintings))
+> 3. **<span style="color:red;">370 goblins rouges</span>**
 > 4. 339 guerriers rouges
 
 <!--
+: **c'est donc la bonne réponse**
+(vérifiée en SQL avec [la base de données complète des cartes Magic the Gathering](https://mtgjson.com/downloads/all-files/#allprintings))
 TODO: check the answer, using AllPrintings.sqlite and some well-written SQL code
 See: https://mtgjson.com/downloads/all-files/#allprintings
 -->
@@ -116,7 +117,7 @@ avant sa libération lors des événements du [bloc Spirale Temporelle](https://
 
 ## Question 4/20 : connaissance des règles
 
-Antoine enchante sa [**Cavernes aux gemmes**](https://scryfall.com/card/tsr/280/gemstone-caverns), qui a un marqueur "Chance", avec [**Croissance abondante**](https://scryfall.com/card/dmc/128/abundant-growth).
+Antoine enchante ses [**Cavernes aux gemmes**](https://scryfall.com/card/tsr/280/gemstone-caverns), qui a un marqueur "Chance", avec [**Croissance abondante**](https://scryfall.com/card/dmc/128/abundant-growth).
 Au tour suivant, Nathan lance [**Mage de la lune**](https://scryfall.com/card/tsr/175/magus-of-the-moon).
 
 <center>
@@ -135,11 +136,11 @@ Quelle(s) couleur(s) de mana les [**Cavernes aux gemmes**](https://scryfall.com/
 
 **Réponse** : **N'importe quelle couleur**.
 
-Le Mage de la Lune opère dans la couche de changement de types (Règle *613.1d*),
+Le **Mage de la Lune** opère dans la couche de changement de types (Règle *613.1d*),
 qui est appliquée avant la couche d'ajout et de suppression de capacité (*613.1f*).
 
-La Caverne aux Gemmes est donc une montagne (non basique), avec la capacité additionnelle
-"<i class="mi mi-tap mi-mana mi-1x"></i> : Ajouter un mana de n'importe quelle couleur".
+Les **Cavernes aux Gemmes** sont donc une montagne (non basique), avec la capacité additionnelle
+"<i class="mi mi-tap mi-mana mi-1x"></i> : Ajouter un mana de la couleur de votre choix".
 
 ----
 
@@ -223,9 +224,14 @@ Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc
 
 ## Correction : Question 7/20
 
-La réponse est 16, avec la carte [Draco](https://scryfall.com/search?q=draco+cmc%3D16) de l'extension Planeshift sortie en 2001.
+La réponse est <i class="mi mi-16 mi-mana mi-1x"></i>,
+avec la carte [Draco](https://scryfall.com/search?q=draco+cmc%3D16) de l'extension Planeshift
+(sortie en 2001).
 
-<img style="float: right; width: 29vh;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" />
+<center>
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/unh/121/gleemax" src="cardes-images/unh-121-gleemax.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" />
+</center>
 
 En comptant les cartes à bords argentés, il s'agit de [**Gleemax**](https://scryfall.com/card/unh/121/gleemax) qui a un coût de mana de 1.000.000 (un million de manas incolores).
 
@@ -249,11 +255,15 @@ Qui est l'artiste ayant illustré la carte [**Chemin des descendants**](https://
 
 Elle est notamment connue pour le cycle des *"Guru Lands"*, les terrains de base les plus chers de tout Magic (1040€ le premier prix pour une **Île** !), qui ont aussi ce style riche en détails "astronomiques".
 
+<center>
+<img style="width: 95vh;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&order=eur&as=grid&unique=art" src="cardes-images/4-guru-lands.png" />
+</center>
+
 ----
 
 ## Question 9/20 : connaissance des règles
 
-Dans ta bibliothèque, quelle est la force du [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
+Dans ma bibliothèque, quelle est la force du [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
 
 <img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
@@ -295,7 +305,7 @@ Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/c
 <br><br><br>
 <!-- TODO: -->
 
-> Je n'ai pas la source de cette réponse, je l'ai trouvée sur [un quiz fait par un collègue arbitre](https://docs.google.com/presentation/d/1q4SFKQiLnLsBcSz-pnwDnx9zoNQO9LVPhk-L-dWQ9L8/edit#slide=id.g2cb651add6c_4_32).
+> Désolé, je n'ai pas la source de cette réponse, je l'ai trouvée sur [un quiz fait par un collègue arbitre](https://docs.google.com/presentation/d/1q4SFKQiLnLsBcSz-pnwDnx9zoNQO9LVPhk-L-dWQ9L8/edit#slide=id.g2cb651add6c_4_32).
 
 ----
 
@@ -390,11 +400,16 @@ Lequel(s) de ces super héros n'a **<ins>pas</ins>** (encore ?) été annoncé(s
 
 ## Correction : Question 13/20
 
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/sld/1742/storm-force-of-nature" src="cardes-images/sld-1742-storm-force-of-nature.jpg" />
+<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/sld/1737/wolverine-best-there-is" src="cardes-images/sld-1737-wolverine-best-there-is.jpg" />
+
 **Réponse** :
-3. [**Cyclope**](https://scryfall.com/)
-et
+
+3. [**Cyclope**](https://scryfall.com/) et
 4. [**Professeur X**](https://scryfall.com/) (**Charles Xavier**)
+
 n'ont pas (encore ?) été annoncés.
+
 <!-- TODO: vérifier que ce soit toujours correct ! -->
 
 ----
@@ -413,9 +428,10 @@ Comment s'appelle l'artefact légendaire qu'il faut contrôler, afin de pouvoir 
 
 ## Correction : Question 14/20
 
-Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone), comme on peut le voir sur la vraie version de la carte que j'avais modifiée :
+<img style="float: right; width: 37vh;" alt="https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone" src="cardes-images/bro-fr-238a-the-mightstone-and-weakstone.jpg" />
+<img style="float: right; width: 37vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" />
 
-<img style="float: right; width: 31vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" />
+Il s'agit de 2. [**La Lithopuissance et la Lithorpeur**](https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone), comme on peut le voir sur la vraie version de la carte que j'avais modifiée :
 
 ----
 
