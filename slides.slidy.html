@@ -11,10 +11,19 @@
   <style type="text/css">
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <link rel="stylesheet" type="text/css" media="screen, projection, print"
     href="https://www.w3.org/Talks/Tools/Slidy2/styles/slidy.css" />
@@ -25,7 +34,8 @@
 </head>
 <body>
 <div class="slide titlepage">
-  <h1 class="title"><i class="mi mi-planeswalk mi-1x"></i> Quiz Magic the Gathering <i class="mi mi-planeswalk mi-1x"></i></h1>
+  <h1 class="title"><i class="mi mi-planeswalk mi-1x"></i> Quiz Magic
+the Gathering <i class="mi mi-planeswalk mi-1x"></i></h1>
   <p class="subtitle">au Festival Dons des Dragons 2024</p>
   <p class="author">
 Par les Arpenteurs de Strasbourg
@@ -34,26 +44,31 @@ Par les Arpenteurs de Strasbourg
 </div>
 <div class="slide section level1">
 
-<p><link href="https://alexandrearpin.com/mtg-font/css/magic-font.css" rel="stylesheet" type="text/css" /> <link href="https://cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" rel="stylesheet" type="text/css" /></p>
+<p><link href="https://alexandrearpin.com/mtg-font/css/magic-font.css" rel="stylesheet" type="text/css" />
+<link href="https://cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" rel="stylesheet" type="text/css" /></p>
 </div>
 <div id="un-quiz-sur-magic-the-gathering" class="slide section level1">
 <h1>Un Quiz sur <em>Magic: the Gathering</em></h1>
-<p>Bienvenue dans ce quiz sur <em>Magic: the Gathering</em> <i class="mi mi-planeswalk mi-1x"></i>, notre jeu préféré !</p>
+<p>Bienvenue dans ce quiz sur <em>Magic: the Gathering</em>
+<i class="mi mi-planeswalk mi-1x"></i>, notre jeu préféré !</p>
 <div class="incremental">
 <p>Il y aura <em>20</em> questions, 5 fois de suite selon ce motif :</p>
 <ul>
-<li>4 questions “plutôt faciles”, en QCM à deux ou quatre choix, valant 1 point chacune,</li>
-<li>1 question “plus dure”, valant 2 points chacune, avec un bonus valant 1 point de plus !</li>
+<li>4 questions “plutôt faciles”, en QCM à deux ou quatre choix, valant
+1 point chacune,</li>
+<li>1 question “plus dure”, valant 2 points chacune, avec un bonus
+valant 1 point de plus !</li>
 </ul>
 </div>
 <div class="incremental">
-<p>Répondez sur vos ardoises, et à chaque question nous compterons les bonnes ou mauvaises réponses !</p>
+<p>Répondez sur vos ardoises, et à chaque question nous compterons les
+bonnes ou mauvaises réponses !</p>
 </div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-120-connaissance-de-lhistoire-du-jeu-dure">Question 1/20 : connaissance de l’histoire du jeu (dure)</h2>
-<div class="incremental">
+<h2 id="question-120-connaissance-de-lhistoire-du-jeu-dure">Question
+1/20 : connaissance de l’histoire du jeu (dure)</h2>
 <ul>
 <li>Comment s’appelle l’extension ayant ce symbole ?</li>
 </ul>
@@ -63,143 +78,348 @@ Par les Arpenteurs de Strasbourg
 <i class="ss ss-con ss-6x"></i>
 </center>
 <ul>
-<li><strong>Bonus</strong> : <em>estimer</em> en quelle année elle est sortie ?</li>
+<li><strong>Bonus</strong> : <em>estimer</em> en quelle année elle est
+sortie ?</li>
 </ul>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-220-estimation-statistique-sur-les-cartes">Question 2/20 : estimation statistique sur les cartes</h2>
-<div class="incremental">
-<p>Quel type de créature est le <strong><ins>second</ins> le plus représenté</strong> <span style="color: red;">dans la couleur rouge</span> <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> ?</p>
+<h2 id="correction-question-120">Correction : Question 1/20</h2>
+<!-- **Réponse** : extension Forteresse (Stronghold, STH)
+143 cards, sortie le 02 mars 1998 -->
+<!-- **Réponse** : extension Légions (Legions, LGN)
+145 cartes, sortie le 03 février 2003 -->
+<p><strong>Réponse</strong> : extension <strong>Conflux</strong>
+(CON)</p>
+<center style="zoom: 150%;">
+<i class="ss ss-con ss-6x"></i>
+</center>
+<!-- 145 cartes -->
+<p>Sortie le <strong>06 février 2009</strong>.
+<!-- (je me souviens des avant-premières, c'était top !) --></p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-220-estimation-statistique-sur-les-cartes">Question
+2/20 : estimation statistique sur les cartes</h2>
+<p>Quel type de créature est le <strong><ins>second</ins> le plus
+représenté</strong> <span style="color: red;">dans la couleur
+rouge</span> <i class="mi mi-mana mi-r mi-shadow mi-1x"></i> ?</p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Ddragon">Dragon</a></li>
-<li><a href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dhuman">Humain</a></li>
-<li><a href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dgoblin">Gobelin</a></li>
-<li><a href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dwarrior">Guerrier</a></li>
+<li><a
+href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Ddragon">Dragon</a></li>
+<li><a
+href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dhuman">Humain</a></li>
+<li><a
+href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dgoblin">Gobelin</a></li>
+<li><a
+href="https://scryfall.com/search?q=id%3Dr+t%3Dcreature+game%3Dpaper+t%3Dwarrior">Guerrier</a></li>
+</ol>
+</div>
+<div class="slide section level1">
+
+<h2 id="correction-question-220">Correction : Question 2/20</h2>
+<p><strong>Réponse</strong> :</p>
+<ol class="incremental" style="list-style-type: decimal">
+<li>148 dragons rouges</li>
+<li>497 humains rouges</li>
+<li><strong><span style="color:red;">370 goblins rouges</span></strong>
+: <strong>c’est donc la bonne réponse</strong> (vérifiée en SQL avec <a
+href="https://mtgjson.com/downloads/all-files/#allprintings">la base de
+données complète des cartes Magic the Gathering</a>)</li>
+<li>339 guerriers rouges</li>
 </ol>
 <!--
 TODO: check the answer, using AllPrintings.sqlite and some well-written SQL code
 See: https://mtgjson.com/downloads/all-files/#allprintings
 -->
 </div>
-</div>
 <div class="slide section level1">
 
-<h2 id="question-320-connaissance-du-lore">Question 3/20 : connaissance du <em>lore</em></h2>
-<div class="incremental">
-<p>Qui emprisonna <a href="https://scryfall.com/card/tsb/98/nicol-bolas"><strong>Nicol Bolas</strong></a> sur le plan de <em>Dominaria</em>, avant sa libération lors des événements du <a href="https://scryfall.com/sets/tsp">bloc Spirale Temporelle</a> ?</p>
+<h2 id="question-320-connaissance-du-lore">Question 3/20 : connaissance
+du <em>lore</em></h2>
+<p>Qui emprisonna <a
+href="https://scryfall.com/card/tsb/98/nicol-bolas"><strong>Nicol
+Bolas</strong></a> sur le plan de <em>Dominaria</em>, avant sa
+libération lors des événements du <a
+href="https://scryfall.com/sets/tsp">bloc Spirale Temporelle</a> ?</p>
 <p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/tsb/98/nicol-bolas" src="cardes-images/tsb-98-nicol-bolas.jpg" /></p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li>Son frère, <a href="https://scryfall.com/card/m3c/160/ugin-the-ineffable"><strong>Ugin</strong></a></li>
-<li>Un rival, <a href="https://scryfall.com/card/dmr/355/arcades-sabboth"><strong>Arcades Sabboth</strong></a></li>
-<li>Un héro antique, <a href="https://scryfall.com/card/leg/262/tetsuo-umezawa"><strong>Tetsuo Umezawa</strong></a></li>
-<li>Un arpenteur, <a href="https://scryfall.com/card/bro/238b/urza-planeswalker"><strong>Urza</strong></a></li>
+<li>Son frère, <a
+href="https://scryfall.com/card/m3c/160/ugin-the-ineffable"><strong>Ugin</strong></a></li>
+<li>Un rival, <a
+href="https://scryfall.com/card/dmr/355/arcades-sabboth"><strong>Arcades
+Sabboth</strong></a></li>
+<li>Un héro antique, <a
+href="https://scryfall.com/card/leg/262/tetsuo-umezawa"><strong>Tetsuo
+Umezawa</strong></a></li>
+<li>Un arpenteur, <a
+href="https://scryfall.com/card/bro/238b/urza-planeswalker"><strong>Urza</strong></a></li>
 </ol>
 </div>
+<div class="slide section level1">
+
+<h2 id="correction-question-320">Correction : Question 3/20</h2>
+<p><strong>Réponse</strong> : 3. Un héro antique, <a
+href="https://scryfall.com/card/leg/262/tetsuo-umezawa"><strong>Tetsuo
+Umezawa</strong></a>.</p>
+<p><a
+href="https://mtg.fandom.com/wiki/Tetsuo_Umezawa#Champion_against_emperor">Source</a>
+: Wiki MTG.fandom.com :</p>
+<blockquote>
+<p>Bolas was furious over the death of his regent.<br> Tetsuo fled to
+the Meditation Plane and Bolas followed.<br> This proved a mistake for
+the Elder Dragon however, Tetsuo had cast the <strong>Meteor
+Hammer</strong> spell.<br> The spell destroyed the Imperial Shrine, thus
+destroying the mana foothold Bolas needed to stay in Dominaria.<br>
+Denied his powers as a planeswalker, Bolas was defeated by Tetsuo.</p>
+</blockquote>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-420-connaissance-des-règles">Question 4/20 : connaissance des règles</h2>
-<div class="incremental">
-<p>Antoine enchante sa <a href="https://scryfall.com/card/tsr/280/gemstone-caverns"><strong>Cavernes aux gemmes</strong></a>, qui a un marqueur “Chance”, avec <a href="https://scryfall.com/card/dmc/128/abundant-growth"><strong>Croissance abondante</strong></a>. Au tour suivant, Nathan lance <a href="https://scryfall.com/card/tsr/175/magus-of-the-moon"><strong>Mage de la lune</strong></a>.</p>
+<h2 id="question-420-connaissance-des-règles">Question 4/20 :
+connaissance des règles</h2>
+<p>Antoine enchante sa <a
+href="https://scryfall.com/card/tsr/280/gemstone-caverns"><strong>Cavernes
+aux gemmes</strong></a>, qui a un marqueur “Chance”, avec <a
+href="https://scryfall.com/card/dmc/128/abundant-growth"><strong>Croissance
+abondante</strong></a>. Au tour suivant, Nathan lance <a
+href="https://scryfall.com/card/tsr/175/magus-of-the-moon"><strong>Mage
+de la lune</strong></a>.</p>
 <center>
-<img style="width: 22vh;" alt="https://scryfall.com/card/tsr/280/gemstone-caverns" src="cardes-images/tsr-280-gemstone-caverns.jpg" /> <img style="width: 22vh;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/afc-150-abundant-growth.jpg" /> <img style="width: 22vh;" alt="https://scryfall.com/card/tsr/175/magus-of-the-moon" src="cardes-images/tsr-175-magus-of-the-moon.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/tsr/280/gemstone-caverns" src="cardes-images/tsr-280-gemstone-caverns.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/dmc/128/abundant-growth" src="cardes-images/afc-150-abundant-growth.jpg" />
+<img style="width: 22vh;" alt="https://scryfall.com/card/tsr/175/magus-of-the-moon" src="cardes-images/tsr-175-magus-of-the-moon.jpg" />
 </center>
-</div>
-<div class="incremental">
-<p>Quelle(s) couleur(s) de mana les <a href="https://scryfall.com/card/tsr/280/gemstone-caverns"><strong>Cavernes aux gemmes</strong></a> pourront-elles désormais produire en s’engageant <i class="mi mi-tap mi-mana mi-1x"></i> ?</p>
-</div>
+<p>Quelle(s) couleur(s) de mana les <a
+href="https://scryfall.com/card/tsr/280/gemstone-caverns"><strong>Cavernes
+aux gemmes</strong></a> pourront-elles désormais produire en s’engageant
+<i class="mi mi-tap mi-mana mi-1x"></i> ?</p>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-520-connaissance-de-lhistoire-du-jeu">Question 5/20 : connaissance de l’histoire du jeu</h2>
-<div class="incremental">
-<p>Laquelle de ces éditions n’a <strong><ins>pas de carte à son nom</ins></strong> (VF ou VO) :</p>
+<h2 id="correction-question-420">Correction : Question 4/20</h2>
+<!-- **Réponse** : Any color. Magus of the Moon operates in the type-changing layer (613.1d) which is applied before the ability adding and removing layer. (613.1f) Gemstone Caverns is a Mountain, with the additional ability "<i class="mi mi-tap mi-mana mi-1x"></i> : Add one mana of any color.". -->
+<p><strong>Réponse</strong> : <strong>N’importe quelle
+couleur</strong>.</p>
+<p>Le Mage de la Lune opère dans la couche de changement de types (Règle
+<em>613.1d</em>), qui est appliquée avant la couche d’ajout et de
+suppression de capacité (<em>613.1f</em>).</p>
+<p>La Caverne aux Gemmes est donc une montagne (non basique), avec la
+capacité additionnelle “<i class="mi mi-tap mi-mana mi-1x"></i> :
+Ajouter un mana de n’importe quelle couleur”.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-520-connaissance-de-lhistoire-du-jeu">Question 5/20 :
+connaissance de l’histoire du jeu</h2>
+<p>Laquelle de ces éditions n’a <strong><ins>pas de carte à son
+nom</ins></strong> (VF ou VO) :</p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/sets/usg"><strong>Épopée d’Urza</strong> (USG)</a></li>
-<li><a href="https://scryfall.com/sets/plc"><strong>Chaos planaire</strong> (PLC)</a></li>
-<li><a href="https://scryfall.com/sets/fut"><strong>Visions de l’avenir</strong> (FUT)</a></li>
-<li><a href="https://scryfall.com/sets/frf"><strong>Destin reforgé</strong> (FRF)</a></li>
+<li><a href="https://scryfall.com/sets/usg"><strong>Épopée
+d’Urza</strong> (USG)</a></li>
+<li><a href="https://scryfall.com/sets/plc"><strong>Chaos
+planaire</strong> (PLC)</a></li>
+<li><a href="https://scryfall.com/sets/fut"><strong>Visions de
+l’avenir</strong> (FUT)</a></li>
+<li><a href="https://scryfall.com/sets/frf"><strong>Destin
+reforgé</strong> (FRF)</a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-620-sur-le-format-pauper-dure">Question 6/20 : sur le format Pauper (dure)</h2>
-<div class="incremental">
-<p>Laquelle de ces cartes communes n’est <strong><ins>pas légale</ins></strong> en Pauper ?</p>
+<h2 id="correction-question-520">Correction : Question 5/20</h2>
+<p><strong>Réponse</strong> : 4. <a
+href="https://scryfall.com/sets/frf"><strong>Destin reforgé</strong>
+(FRF)</a> n’a pas de carte à son nom.</p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/card/pcy/45/fr/etude-rhystique"><strong>Étude Rhystique</strong> (Rystic Study)</a></li>
-<li><a href="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude"><strong>Hébétude</strong> (Daze)</a></li>
-<li><a href="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus"><strong>Pétal de lotus</strong> (Lotus Petal)</a></li>
-<li><a href="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique"><strong>Rémora mystique</strong> (Mystic Remora)</a></li>
+<li><i class="ss ss-usg ss-1x"></i> Urza’s Saga (usg) a <a
+href="https://scryfall.com/card/mh2/259/urzas-saga">sa carte dans Modern
+Horizon 2 (MH2)</a></li>
+<li><i class="ss ss-plc ss-1x"></i> Planar Chaos (plc) a <a
+href="https://scryfall.com/card/jud/97/planar-chaos">sa carte dans
+Jugement (JUD)</a></li>
+<li><i class="ss ss-fut ss-1x"></i> Future Sight (fut) a <a
+href="https://scryfall.com/card/ons/84/future-sight">sa carte dans
+Carnage (ONS)</a></li>
+<li><strong>Réponse</strong> : <i class="ss ss-frf ss-1x"></i> Destin
+reforgé (frf) n’a <strong>pas</strong> de carte a son nom.</li>
+</ol>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-620-sur-le-format-pauper-dure">Question 6/20 : sur le
+format Pauper (dure)</h2>
+<p>Laquelle de ces cartes communes n’est <strong><ins>pas
+légale</ins></strong> en Pauper ?</p>
+<ol class="incremental" style="list-style-type: decimal">
+<li><a
+href="https://scryfall.com/card/pcy/45/fr/etude-rhystique"><strong>Étude
+Rhystique</strong> (Rystic Study)</a></li>
+<li><a
+href="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude"><strong>Hébétude</strong>
+(Daze)</a></li>
+<li><a
+href="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus"><strong>Pétal
+de lotus</strong> (Lotus Petal)</a></li>
+<li><a
+href="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique"><strong>Rémora
+mystique</strong> (Mystic Remora)</a></li>
 </ol>
 <center>
-<img style="width: 15vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 15vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
+<img style="width: 15vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" />
+<img style="width: 15vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" />
+<img style="width: 15vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" />
+<img style="width: 15vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
 </center>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-620-sur-le-format-pauper---bonus-dure">Question 6/20 : sur le format Pauper - Bonus (dure)</h2>
+<h2 id="correction-question-620">Correction : Question 6/20</h2>
+<p><strong>Réponse</strong> : 2. <a
+href="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude"><strong>Hébétude</strong>
+(Daze)</a></p>
+<p>Les quatre ont été éditées dans leur première édition à la rareté
+commune, mais 2. <a
+href="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude"><strong>Hébétude</strong>
+(Daze)</a> est la seule à être <strong>bannie en Pauper</strong>.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-620-sur-le-format-pauper---bonus-dure">Question 6/20 :
+sur le format Pauper - Bonus (dure)</h2>
 <center>
-<img style="width: 22.5vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" /> <img style="width: 22.5vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
+<img style="width: 22.5vh;" alt="https://scryfall.com/card/pcy/45/fr/etude-rhystique" src="cardes-images/pcy-45-rhystic-study.jpg" />
+<img style="width: 22.5vh;" alt="https://scryfall.com/card/nem/30/fr/h%C3%A9b%C3%A9tude" src="cardes-images/nem-30-daze.jpg" />
+<img style="width: 22.5vh;" alt="https://scryfall.com/card/tmp/294/fr/p%C3%A9tale-de-lotus" src="cardes-images/tmp-294-lotus-petal.jpg" />
+<img style="width: 22.5vh;" alt="https://scryfall.com/card/ice/87/fr/r%C3%A9mora-mystique" src="cardes-images/ice-87-mystic-remora.jpg" />
 </center>
-<p><strong>Bonus :</strong> laquelle de ces quatre cartes a le prix moyen sur CardMarket.com le plus élevé ? Dans sa version la moins chère, en VO en anglais (<em>“prix moyen”</em>, tel qu’affiché sur Scryfall hier soir).</p>
-<!-- **Bonus :** estimer le prix moyen sur CardMarket.com de votre réponse, dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affiché sur Scryfall hier soir). -->
+<p><strong>Bonus :</strong> laquelle de ces quatre cartes a le prix
+moyen sur CardMarket.com le plus élevé ? Dans sa version la moins chère,
+en VO en anglais (<em>“prix moyen”</em>, tel qu’affiché sur Scryfall
+hier soir).</p>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-720-connaissance-des-cartes">Question 7/20 : connaissance des cartes</h2>
-<div class="incremental">
-<p>Quel est le coût converti de mana le plus élevé imprimé à bords noirs (donc pas à bords argentés) ?</p>
+<h2 id="correction-question-620---bonus">Correction : Question 6/20 -
+Bonus</h2>
+<!-- TODO: rafraîchir la réponse la veille du quiz ! -->
+<p><strong>Réponse</strong> : <strong>1.91€</strong> pour <a
+href="https://scryfall.com/card/mb2/26/daze">la version la moins chère
+(Mystery Booster 2)</a>.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-720-connaissance-des-cartes">Question 7/20 :
+connaissance des cartes</h2>
+<p>Quel est le coût converti de mana le plus élevé imprimé à bords noirs
+(donc pas à bords argentés) ?</p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><i class="mi mi-13 mi-mana mi-1x"></i> (13)</li>
-<li><i class="mi mi-15 mi-mana mi-1x"></i> (15)</li>
-<li><i class="mi mi-16 mi-mana mi-1x"></i> (16)</li>
-<li><i class="mi mi-18 mi-mana mi-1x"></i> (18)</li>
+<li><i class="mi mi-13 mi-mana mi-1x"></i></li>
+<li><i class="mi mi-15 mi-mana mi-1x"></i></li>
+<li><i class="mi mi-16 mi-mana mi-1x"></i></li>
+<li><i class="mi mi-18 mi-mana mi-1x"></i></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-820-sur-une-illustration-très-originale-que-jaime-beaucoup">Question 8/20 : sur une illustration très originale, que j’aime beaucoup</h2>
-<div class="incremental">
-<p><img style="float: right; margin-right: -5vh; width: 65vh;" alt="https://scryfall.com/card/avr/173/fr/chemin-des-descendants" src="cardes-images/avr-173-descendants-path.jpg" /> Qui est l’artiste ayant illustré la carte <a href="https://scryfall.com/card/avr/173/fr/chemin-des-descendants"><strong>Chemin des descendants</strong></a> de l’édition Avacyn Restored en 2012 ?</p>
+<h2 id="correction-question-720">Correction : Question 7/20</h2>
+<p>La réponse est 16, avec la carte <a
+href="https://scryfall.com/search?q=draco+cmc%3D16">Draco</a> de
+l’extension Planeshift sortie en 2001.</p>
+<p><img style="float: right; width: 29vh;" alt="https://scryfall.com/card/pls/131/draco" src="cardes-images/pls-131-draco.jpg" /></p>
+<p>En comptant les cartes à bords argentés, il s’agit de <a
+href="https://scryfall.com/card/unh/121/gleemax"><strong>Gleemax</strong></a>
+qui a un coût de mana de 1.000.000 (un million de manas incolores).</p>
+</div>
+<div class="slide section level1">
+
+<h2
+id="question-820-sur-une-illustration-très-originale-que-jaime-beaucoup">Question
+8/20 : sur une illustration très originale, que j’aime beaucoup</h2>
+<p><img style="float: right; margin-right: -5vh; width: 65vh;" alt="https://scryfall.com/card/avr/173/fr/chemin-des-descendants" src="cardes-images/avr-173-descendants-path.jpg" />
+Qui est l’artiste ayant illustré la carte <a
+href="https://scryfall.com/card/avr/173/fr/chemin-des-descendants"><strong>Chemin
+des descendants</strong></a> de l’édition <em>Avacyn Restored</em> en
+2012 ?</p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CRebecca+Guay%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Rebecca Guay</strong></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CRob+Alexander%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Rob Alexander</strong></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Terese Nielsen</strong></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CAleksi+Briclot%E2%80%9D&amp;unique=art"><strong>Aleksi Briclot</strong></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CRebecca+Guay%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Rebecca
+Guay</strong></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CRob+Alexander%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Rob
+Alexander</strong></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Terese
+Nielsen</strong></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CAleksi+Briclot%E2%80%9D&amp;unique=art"><strong>Aleksi
+Briclot</strong></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-920-connaissance-des-règles">Question 9/20 : connaissance des règles</h2>
-<div class="incremental">
-<p>Dans ta bibliothèque, quelle est la force du <a href="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu"><strong>Changeforme corrompu</strong></a> ?</p>
+<h2 id="correction-question-820">Correction : Question 8/20</h2>
+<p><strong>Réponse</strong> : il s’agit de 3. <a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CTerese+Nielsen%E2%80%9D&amp;unique=art&amp;as=grid&amp;order=name"><strong>Terese
+Nielsen</strong></a>.</p>
+<p>Elle est notamment connue pour le cycle des <em>“Guru Lands”</em>,
+les terrains de base les plus chers de tout Magic (1040€ le premier prix
+pour une <strong>Île</strong> !), qui ont aussi ce style riche en
+détails “astronomiques”.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-920-connaissance-des-règles">Question 9/20 :
+connaissance des règles</h2>
+<p>Dans ta bibliothèque, quelle est la force du <a
+href="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu"><strong>Changeforme
+corrompu</strong></a> ?</p>
 <img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
 <ol class="incremental" style="list-style-type: decimal">
-<li><strong>zéro</strong>, car sa capacité n’est pas une capacité de définition de caractéristique (<a href="https://yawgatog.com/resources/magic-rules/#R6043a">règle 604.3a.</a>)</li>
-<li><strong>trois</strong>, car c’est le premier choix imprimé sur la carte (<a href="https://yawgatog.com/resources/magic-rules/#R6043">règle 604.3b.</a>)</li>
-<li><strong>ton choix parmi zéro, deux et trois</strong>, car sa capacité est une capacité de définition de caractéristique à choix multiple (<a href="https://yawgatog.com/resources/magic-rules/#R6043a">règle 604.3a.</a>)</li>
-<li><strong>zéro</strong>, car c’est le dernier choix imprimé sur la carte (<a href="https://yawgatog.com/resources/magic-rules/#R6043">règle 604.3c.</a>)</li>
+<li><strong>zéro</strong>, car sa capacité n’est pas une capacité de
+définition de caractéristique (<a
+href="https://yawgatog.com/resources/magic-rules/#R6043a">règle
+604.3a.</a>)</li>
+<li><strong>trois</strong>, car c’est le premier choix imprimé sur la
+carte (<a href="https://yawgatog.com/resources/magic-rules/#R6043">règle
+604.3b.</a>)</li>
+<li><strong>ton choix parmi zéro, deux et trois</strong>, car sa
+capacité est une capacité de définition de caractéristique à choix
+multiple (<a
+href="https://yawgatog.com/resources/magic-rules/#R6043a">règle
+604.3a.</a>)</li>
+<li><strong>zéro</strong>, car c’est le dernier choix imprimé sur la
+carte (<a href="https://yawgatog.com/resources/magic-rules/#R6043">règle
+604.3c.</a>)</li>
 </ol>
-</div>
 </div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1020-estimation-statistique">Question 10/20 : estimation statistique</h2>
-<div class="incremental">
-<p>Combien d’exemplaires de la carte nommée <strong><a href="https://scryfall.com/card/lea/232/black-lotus">Black Lotus</a></strong> ont été imprimés dans l’édition <i class="ss ss-lea ss-1x"></i> Alpha, à l’origine du jeu <em>Magic: the Gathering</em> en 1993 ?</p>
-<p><img style="float: right; width: 27vh;" alt="https://scryfall.com/card/lea/232/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" /></p>
+<h2 id="correction-question-920">Correction : Question 9/20</h2>
+<p><strong>Réponse</strong> : 1. <strong>zéro</strong>, sa capacité
+n’est pas une capacité de définition de caractéristique (CDC), comme
+expliqué dans la règle <a
+href="https://yawgatog.com/resources/magic-rules/#R6043a">règle
+604.3a.</a>.</p>
+<p>En gros : elle dépend d’un choix à faire lors d’une arrivée sur le
+champ de bataille, donc n’est pas une CDC.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-1020-estimation-statistique">Question 10/20 :
+estimation statistique</h2>
+<p>Combien d’exemplaires de la carte nommée <strong><a
+href="https://scryfall.com/card/lea/232/black-lotus">Black
+Lotus</a></strong> ont été imprimés dans l’édition
+<i class="ss ss-lea ss-1x"></i> Alpha, à l’origine du jeu <em>Magic: the
+Gathering</em> en 1993 ?</p>
+<p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/lea/232/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" /></p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
 <li><em>190</em></li>
@@ -208,113 +428,274 @@ See: https://mtgjson.com/downloads/all-files/#allprintings
 <li><em>360000</em></li>
 </ol>
 </div>
+<div class="slide section level1">
+
+<h2 id="correction-question-1020">Correction : Question 10/20</h2>
+<p><strong>Réponse</strong> : 1100.</p>
+<p><br><br><br> <!-- TODO: --></p>
+<blockquote>
+<p>Je n’ai pas la source de cette réponse, je l’ai trouvée sur <a
+href="https://docs.google.com/presentation/d/1q4SFKQiLnLsBcSz-pnwDnx9zoNQO9LVPhk-L-dWQ9L8/edit#slide=id.g2cb651add6c_4_32">un
+quiz fait par un collègue arbitre</a>.</p>
+</blockquote>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1120-connaissance-sur-le-lore-dure">Question 11/20 : connaissance sur le lore (dure)</h2>
-<div class="incremental">
-<p>Qu’est-ce qui a finalement ruiné la si belle journée de ce bon vieux <strong><a href="https://scryfall.com/card/cmr/279/fr/hans-eriksson">Hans Ericksson</a></strong> ?</p>
+<h2 id="question-1120-connaissance-sur-le-lore-dure">Question 11/20 :
+connaissance sur le lore (dure)</h2>
+<p>Qu’est-ce qui a finalement ruiné la si belle journée de ce bon vieux
+<strong><a
+href="https://scryfall.com/card/cmr/279/fr/hans-eriksson">Hans
+Ericksson</a></strong> ?</p>
 <p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/cmr/279/fr/hans-eriksson" src="cardes-images/cmr-279-hans-eriksson.jpg" /></p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li>Une <a href="https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski"><strong>Patrouille gobeline à ski</strong></a></li>
-<li>Une <a href="https://scryfall.com/card/ice/101/fr/chute-de-neige"><strong>Chute de neige</strong></a></li>
-<li>Le <a href="https://scryfall.com/card/m3c/235/fr/lhurgoyf"><strong>Lhurgoyf</strong></a></li>
-<li>Un <a href="https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin"><strong>Bonhomme de neige gobelin</strong></a></li>
+<li>Une <a
+href="https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski"><strong>Patrouille
+gobeline à ski</strong></a></li>
+<li>Une <a
+href="https://scryfall.com/card/ice/101/fr/chute-de-neige"><strong>Chute
+de neige</strong></a></li>
+<li>Le <a
+href="https://scryfall.com/card/m3c/235/fr/lhurgoyf"><strong>Lhurgoyf</strong></a></li>
+<li>Un <a
+href="https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin"><strong>Bonhomme
+de neige gobelin</strong></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1120-connaissance-sur-le-lore---bonus-dure">Question 11/20 : connaissance sur le lore - Bonus (dure)</h2>
-<div class="incremental">
+<h2 id="question-1120-connaissance-sur-le-lore---bonus-dure">Question
+11/20 : connaissance sur le lore - Bonus (dure)</h2>
 <p>Donner le coût de mana de la carte que vous avez choisi.</p>
 <p><br></p>
 <ol style="list-style-type: decimal">
-<li><a href="https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski"><strong>Patrouille gobeline à ski</strong></a></li>
-<li><a href="https://scryfall.com/card/ice/101/fr/chute-de-neige"><strong>Chute de neige</strong></a></li>
-<li><a href="https://scryfall.com/card/m3c/235/fr/lhurgoyf"><strong>Lhurgoyf</strong></a></li>
-<li><a href="https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin"><strong>Bonhomme de neige gobelin</strong></a></li>
+<li><a
+href="https://scryfall.com/card/ice/190/fr/patrouille-gobeline-%C3%A0-ski"><strong>Patrouille
+gobeline à ski</strong></a></li>
+<li><a
+href="https://scryfall.com/card/ice/101/fr/chute-de-neige"><strong>Chute
+de neige</strong></a></li>
+<li><a
+href="https://scryfall.com/card/m3c/235/fr/lhurgoyf"><strong>Lhurgoyf</strong></a></li>
+<li><a
+href="https://scryfall.com/card/ice/191/fr/bonhomme-de-neige-gobelin"><strong>Bonhomme
+de neige gobelin</strong></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1220-connaissance-des-cartes">Question 12/20 : connaissance des cartes</h2>
-<div class="incremental">
-<p>Oups, sa rareté a eté effacée… De quelle rareté est cette carte, le <a href="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien"><strong>Biomathématicien</strong></a> ?</p>
+<h2 id="correction-question-1120">Correction : Question 11/20</h2>
+<p>Il s’agit de 3. Le <strong>Lhurgoyf</strong>, ce que l’on peut
+apprendre en lisant les textes d’ambiance de cette carte :</p>
+<p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/m3c/235/fr/lhurgoyf" src="cardes-images/m3c-235-lhurgoyf.jpg" /></p>
+<!-- 1. [**Saffi Ericksdotter**](https://scryfall.com/card/tsr/260/saffi-eriksdotter) -->
+<!-- 2. [**Lhurgoyf**](https://scryfall.com/card/m3c/235/fr/lhurgoyf) -->
+<p><br><br></p>
+<blockquote>
+<p><em>« Ach ! Hans, fuis ! C’est le Lhurgoyf ! »</em><br> <em>– Saffi
+Eriksdotter, derniers mots</em></p>
+</blockquote>
+<p><br><br></p>
+<!-- ## Correction : Question 11/20 - Bonus -->
+<p>Le <strong>Lhurgoyf</strong> a comme coût de mana
+<i class="mi mi-2 mi-mana mi-1x"></i>
+<i class="mi mi-g mi-mana mi-1x"></i>
+<i class="mi mi-g mi-mana mi-1x"></i>.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-1220-connaissance-des-cartes">Question 12/20 :
+connaissance des cartes</h2>
+<p>Oups, sa rareté a eté effacée…<br> De quelle rareté est cette carte,
+le <a
+href="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien"><strong>Biomathématicien</strong></a>
+?</p>
 <p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician-sans-rarete.jpg" /></p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
 <li><span style="color: black;"><strong>Commune</strong></span></li>
-<li><span style="color: darkgray;"><strong>Peu-commune</strong></span></li>
+<li><span
+style="color: darkgray;"><strong>Peu-commune</strong></span></li>
 <li><span style="color: #ffe600;"><strong>Rare</strong></span></li>
-<li><span style="color: #ff7300;"><strong>Rare mythique</strong></span></li>
+<li><span style="color: #ff7300;"><strong>Rare
+mythique</strong></span></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1320-connaissance-des-extensions-univers-étendus">Question 13/20 : connaissance des extensions <em>“Univers Étendus”</em></h2>
-<div class="incremental">
-<p>Il y a quelques semaines, les futurs Secret Lairs <strong>Magic / Marvel</strong> ont été annoncés.</p>
-<p>Lequel(s) de ces super héros n’a <strong><ins>pas</ins></strong> (encore ?) été annoncé(s) ? <em>Il faut avoir la bonne ou toutes les bonnes réponses.</em></p>
+<h2 id="correction-question-1220">Correction : Question 12/20</h2>
+<p><strong>Réponse</strong> : 1. commune.</p>
+</div>
+<div class="slide section level1">
+
+<h2
+id="question-1320-connaissance-des-extensions-univers-étendus">Question
+13/20 : connaissance des extensions <em>“Univers Étendus”</em></h2>
+<p>Il y a quelques semaines, les premiers Secret Lairs <strong>Magic /
+Marvel</strong> sont sortis.</p>
+<p>Lequel(s) de ces super héros n’a <strong><ins>pas</ins></strong>
+(encore ?) été annoncé(s) ?<br> <em>Il faut avoir la bonne ou toutes les
+bonnes réponses.</em></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/card/sld/1742/storm-force-of-nature"><strong>Tornade</strong></a> (<strong>Storm</strong>)</li>
-<li><a href="https://scryfall.com/card/sld/1737/wolverine-best-there-is"><strong>Wolverine / Logan</strong></a></li>
+<li><a
+href="https://scryfall.com/card/sld/1742/storm-force-of-nature"><strong>Tornade</strong></a>
+(<strong>Storm</strong>)</li>
+<li><a
+href="https://scryfall.com/card/sld/1737/wolverine-best-there-is"><strong>Wolverine
+/ Logan</strong></a></li>
 <li><a href="https://scryfall.com/"><strong>Cyclope</strong></a></li>
-<li><a href="https://scryfall.com/"><strong>Professeur X</strong></a> (<strong>Charles Xavier</strong>)</li>
+<li><a href="https://scryfall.com/"><strong>Professeur X</strong></a>
+(<strong>Charles Xavier</strong>)</li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1420-connaissance-sur-le-lore-et-les-cartes">Question 14/20 : connaissance sur le lore et les cartes</h2>
-<div class="incremental">
-<p><img style="float: right; width: 37vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" /> Comment s’appelle l’artefact légendaire qu’il faut contrôler, afin de pouvoir obtenir la surpuissante carte fusionnée <a href="https://scryfall.com/card/bro/238b/urza-planeswalker"><strong>Urza, Planeswalker</strong></a> ?</p>
+<h2 id="correction-question-1320">Correction : Question 13/20</h2>
+<p><strong>Réponse</strong> : 3. <a
+href="https://scryfall.com/"><strong>Cyclope</strong></a> et 4. <a
+href="https://scryfall.com/"><strong>Professeur X</strong></a>
+(<strong>Charles Xavier</strong>) n’ont pas (encore ?) été annoncés.
+<!-- TODO: vérifier que ce soit toujours correct ! --></p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-1420-connaissance-sur-le-lore-et-les-cartes">Question
+14/20 : connaissance sur le lore et les cartes</h2>
+<p><img style="float: right; width: 37vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector-editee.jpg" />
+Comment s’appelle l’artefact légendaire qu’il faut contrôler, afin de
+pouvoir obtenir la surpuissante carte fusionnée <a
+href="https://scryfall.com/card/bro/238b/urza-planeswalker"><strong>Urza,
+Planeswalker</strong></a> ?</p>
 <ol class="incremental" style="list-style-type: decimal">
-<li>La <a href="https://scryfall.com/card/fbb/264/fr/pierre-de-soumission"><strong>Pierre de soumission</strong></a></li>
-<li><a href="https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone"><strong>La Lithopuissance et la Lithorpeur</strong></a></li>
-<li><a href="https://scryfall.com/card/mh3/298/fr/lithoforce-us%C3%A9e"><strong>La Lithoforce</strong></a></li>
-<li>La <a href="https://scryfall.com/card/afc/206/fr/pierre-de-guermont"><strong>Pierre de Guermont</strong></a></li>
+<li>La <a
+href="https://scryfall.com/card/fbb/264/fr/pierre-de-soumission"><strong>Pierre
+de soumission</strong></a></li>
+<li><a
+href="https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone"><strong>La
+Lithopuissance et la Lithorpeur</strong></a></li>
+<li><a
+href="https://scryfall.com/card/mh3/298/fr/lithoforce-us%C3%A9e"><strong>La
+Lithoforce</strong></a></li>
+<li>La <a
+href="https://scryfall.com/card/afc/206/fr/pierre-de-guermont"><strong>Pierre
+de Guermont</strong></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1520-connaissance-sur-les-cartes-et-les-règles">Question 15/20 : connaissance sur les cartes et les règles</h2>
-<div class="incremental">
+<h2 id="correction-question-1420">Correction : Question 14/20</h2>
+<p>Il s’agit de 2. <a
+href="https://scryfall.com/card/bro/238a/the-mightstone-and-weakstone"><strong>La
+Lithopuissance et la Lithorpeur</strong></a>, comme on peut le voir sur
+la vraie version de la carte que j’avais modifiée :</p>
+<p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/bro/225/fr/urza-seigneur-protecteur" src="cardes-images/bro-225-urza-lord-protector.jpg" /></p>
+</div>
+<div class="slide section level1">
+
+<h2
+id="question-1520-connaissance-sur-les-cartes-et-les-règles">Question
+15/20 : connaissance sur les cartes et les règles</h2>
 <!-- Si l'on joue avec 20 points de vie, seulement deux créatures peuvent prétendre pouvoir éliminer le joueur adverse en une seule attaque, sans aucun modificateur de leurs caractéristiques et avec aucun autre permanent sur le champ de bataille de son côté. -->
 <!-- Quelles sont ces deux créatures ? Choisissez exactement deux réponses. -->
-<p>Parmi les cartes légales en Modern, seulement deux créatures peuvent éliminer un adversaire en une seule attaque. Lesquelles ?</p>
+<p>Parmi les cartes légales en Modern, seulement deux créatures peuvent
+éliminer un adversaire en une seule attaque. Lesquelles ?</p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial"><strong>Étali, mal primordial</strong></a></li>
-<li><a href="https://scryfall.com/card/fdn/671/darksteel-colossus"><strong>Colosse de sombracier</strong></a></li>
-<li><a href="https://scryfall.com/card/2x2/1/fr/emrakul-d%C3%A9chirure-des-%C3%A9ons"><strong>Emrakul, Déchirure des Éons</strong></a></li>
-<li><a href="https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier"><strong>Colosse de pestacier</strong></a></li>
+<li><a
+href="https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial"><strong>Étali,
+mal primordial</strong></a></li>
+<li><a
+href="https://scryfall.com/card/fdn/671/darksteel-colossus"><strong>Colosse
+de sombracier</strong></a></li>
+<li><a
+href="https://scryfall.com/card/2x2/1/fr/emrakul-d%C3%A9chirure-des-%C3%A9ons"><strong>Emrakul,
+Déchirure des Éons</strong></a></li>
+<li><a
+href="https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier"><strong>Colosse
+de pestacier</strong></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1620-connaissance-des-cartes-y-compris-les-bords-argentés-dure">Question 16/20 : connaissance des cartes, y compris les bords argentés (dure)</h2>
-<div class="incremental">
-<p>En considérant les cartes à bords argentés (les <em>“Un-set”</em>) et les jetons que celles-ci peuvent créer, combien de couleurs existent en tout dans Magic ?</p>
+<h2 id="correction-question-1520">Correction : Question 15/20</h2>
+<p><strong>Réponse</strong> : il s’agit des deux seules créatures ayant
+l’Infection et une force de 10 ou plus, à savoir <a
+href="https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial"><strong>Étali,
+mal primordial</strong></a> et <a
+href="https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier"><strong>Colosse
+de pestacier</strong></a>. Les deux autres n’ont pas l’infection et ont
+une force de 11 pour le <strong>Colosse de Sombracier</strong>, et de 15
+pour <strong>Emrakul, Déchirure des Éons</strong>.</p>
+<center>
+<img style="width: 25vh;" alt="https://scryfall.com/card/mom/137/fr/etali-conqu%C3%A9rant-primordial-etali-mal-primordial" src="cardes-images/mom-137-etali-primal-conqueror.jpg" />
+<img style="width: 25vh;" alt="https://scryfall.com/card/2xm/235/fr/colosse-de-pestacier" src="cardes-images/2xm-235-blightsteel-colossus.jpg" />
+</center>
+</div>
+<div class="slide section level1">
+
+<h2
+id="question-1620-connaissance-des-cartes-y-compris-les-bords-argentés-dure">Question
+16/20 : connaissance des cartes, y compris les bords argentés
+(dure)</h2>
+<p>En considérant les cartes à bords argentés (les <em>“Un-set”</em>) et
+les jetons que celles-ci peuvent créer, combien de couleurs existent en
+tout dans Magic ?</p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
 <li><strong>six</strong> : cinq couleurs + l’incolore</li>
 <li><strong>six</strong> : cinq couleurs + le rose</li>
 <li><strong>sept</strong> : cinq couleurs + le rose + le doré</li>
-<li><strong>autant que l’on veut</strong>, car on peut nommer la <em>“couleur de ses yeux”</em> !</li>
+<li><strong>autant que l’on veut</strong>, car on peut nommer la
+<em>“couleur des yeux”</em> !</li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1720-connaissance-du-lore">Question 17/20 : connaissance du lore</h2>
-<div class="incremental">
-<p>Quel est plan du multivers a été le plus souvent visité par les extensions officielles de Magic, à ce jour ?</p>
+<h2 id="correction-question-1620">Correction : Question 16/20</h2>
+<p><strong>Réponse</strong> : 4. il y a bien sept couleurs précises :
+cinq couleurs, plus :</p>
+<ul>
+<li><p>le rose, avec <a
+href="https://scryfall.com/card/tund/5/giant-teddy-bear">ce jeton Giant
+Teddy Bear 5/5</a> créé par le <a
+href="https://scryfall.com/card/und/85/water-gun-balloon-game"><strong>Water
+Gun Balloon Game</strong></a> ;</p></li>
+<li><p>le doré, avec <a href="https://scryfall.com/card/h17/4/dragon">ce
+jeton Dragon 4/4 vol</a> créé par la <a
+href="https://scryfall.com/card/h17/3/sword-of-dungeons-&amp;-dragons"><strong>Sword
+of Dungeons &amp; Dragons</strong></a>.</p>
+<blockquote>
+<strong>Notes and Rules Information</strong> for <strong>Sword of
+Dungeons &amp; Dragons</strong>:
+<ul>
+<li>The Dragon token is monocolored. It’s gold.
+<em>(2018-01-19)</em></li>
+<li>If asked to choose a color in a silver-bordered game, you can choose
+gold. <em>(2018-01-19)</em></li>
+</ul>
+</blockquote></li>
+</ul>
+</div>
+<div class="slide section level1">
+
+<h2 id="correction-question-1620-1">Correction : Question 16/20</h2>
+<p>Mais, il faut aussi ajouter toutes les couleurs imaginables, car <a
+href="https://scryfall.com/card/und/17/avatar-of-me"><strong>Avatar of
+Me</strong></a> est de la couleur des yeux de son contrôleur…</p>
+<p><img style="float: right; width: 31vh;" alt="https://scryfall.com/card/und/17/avatar-of-me" src="cardes-images/und-17-avatar-of-me.jpg" /></p>
+<blockquote>
+<p><strong>Notes and Rules Information</strong> for <strong>Avatar of
+Me</strong>: Thanks to Avatar of Me, if you’re asked to choose a color
+in a silver-bordered game, you can name any color. […]</p>
+</blockquote>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-1720-connaissance-du-lore">Question 17/20 :
+connaissance du lore</h2>
+<p>Quel est plan du multivers a été le plus souvent visité par les
+extensions officielles de Magic, à ce jour ?</p>
 <p><br></p>
 <ol class="incremental" style="list-style-type: decimal">
 <li><strong>Mirrodin</strong></li>
@@ -323,99 +704,205 @@ See: https://mtgjson.com/downloads/all-files/#allprintings
 <li><strong>Dominaria</strong></li>
 </ol>
 </div>
+<div class="slide section level1">
+
+<h2 id="correction-question-1720">Correction : Question 17/20</h2>
+<p><strong>Réponse</strong> : Dominaria : c’est assez évident si on
+connaît le début de Magic ! En effet, jusqu’au bloc Mirrodin sorti en
+2003, presque tout se passait sur Dominaria ! Depuis, Dominaria est
+resté un bloc très visité.</p>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1820-estimation-statistique-dure">Question 18/20 : estimation statistique (dure)</h2>
-<div class="incremental">
-<p>Qui est l’artiste ayant illustré le plus de cartes différentes (versions papier) ? <strong>Bonus</strong> : estimer pour combien de cartes ?</p>
-<p><small> <span style="float: left; width: 65vh;"><em>En comptant toutes les variations, de cartes réellement imprimées, comme le ferait Scryfall en cherchant un/une artiste particulier.</em></span> <img style="float: right; width: 45vh;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" /> </small></p>
+<h2 id="question-1820-estimation-statistique-dure">Question 18/20 :
+estimation statistique (dure)</h2>
+<p>Qui est l’artiste ayant illustré le plus de cartes différentes
+(versions papier) ? <strong>Bonus</strong> : estimer pour combien de
+cartes ?</p>
+<p><small> <span style="float: left; width: 65vh;"><em>En comptant
+toutes les variations, de cartes réellement imprimées, comme le ferait
+Scryfall en cherchant un/une artiste particulier.</em></span>
+<img style="float: right; width: 45vh;" alt="https://scryfall.com/search?q=a%3A%E2%80%9CMagali+Villeneuve%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name" src="cardes-images/Scryfall Magali Villeneuve.png" />
+</small></p>
 <p><br><br><br></p>
 <ol class="incremental" style="list-style-type: decimal">
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Dan Frazier</em></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>John Avon</em></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Kev Walker</em></a></li>
-<li><a href="https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Greg Staples</em></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Dan
+Frazier</em></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>John
+Avon</em></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Kev
+Walker</em></a></li>
+<li><a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name"><em>Greg
+Staples</em></a></li>
 </ol>
-</div>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-1920-œil-de-lynx-sur-une-carte-fun">Question 19/20 : “œil de lynx” sur une carte <em>fun</em></h2>
-<div class="incremental">
-<p><img style="float: right; width: 37vh;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" /> Comme un pro de <s>Photoshop</s> GIMP, j’ai modifié un petit détail sur cette carte, la <a href="https://scryfall.com/card/ice/190/goblin-ski-patrol"><strong>Goblin Ski Patrol</strong></a> datant d’Ice Age (1995)… Qu’ai-je modifié ?</p>
+<h2 id="correction-question-1820">Correction : Question 18/20</h2>
+<p><strong>Réponse</strong> : 2. <a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name">John
+Avon</a>, avec actuellement 1306 cartes différentes (au 1er novembre
+2024).</p>
+<p>Les autres artistes ont, respectivement, 752 cartes pour <a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name">Dan
+Frazier</a>, 1196 cartes pour <a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name">Kev
+Walker</a>, et 789 cartes pour <a
+href="https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&amp;unique=prints&amp;as=text&amp;order=name">Greg
+Staples</a>.</p>
+</div>
+<div class="slide section level1">
+
+<h2 id="question-1920-œil-de-lynx-sur-une-carte-fun">Question 19/20 :
+“œil de lynx” sur une carte <em>fun</em></h2>
+<p><img style="float: right; width: 37vh;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol-edite.jpg" />
+Comme un pro de <s>Photoshop</s> GIMP, j’ai modifié un petit détail sur
+cette carte, la <a
+href="https://scryfall.com/card/ice/190/goblin-ski-patrol"><strong>Goblin
+Ski Patrol</strong></a> datant d’Ice Age (1995)… Qu’ai-je modifié ?</p>
 <ol class="incremental" style="list-style-type: decimal">
 <li>L’illustration, j’ai ajouté des cornes !</li>
-<li>Le coût de mana, en vrai c’est <i class="mi mi-4 mi-mana mi-1x"></i><i class="mi mi-mana mi-r mi-1x"></i></li>
-<li>L’illustration, j’ai enlevé la signature de Mark Poole en bas à droite</li>
+<li>Le coût de mana, en vrai c’est
+<i class="mi mi-4 mi-mana mi-1x"></i><i class="mi mi-mana mi-r mi-1x"></i></li>
+<li>L’illustration, j’ai enlevé la signature <br> de Mark Poole en bas à
+droite</li>
 <li>Le nom du gobelin cité en texte d’ambiance…</li>
 </ol>
 </div>
+<div class="slide section level1">
+
+<h2 id="correction-question-1920">Correction : Question 19/20</h2>
+<p><strong>Réponse</strong> : 3. <strong>L’illustration</strong>, j’ai
+enlevé la signature de Mark Poole.
+<!-- Pas trop dur à faire avec GIMP, plutôt que Photoshop ! --></p>
+<center>
+<img style="width: 33vh;" alt="https://scryfall.com/card/ice/190/goblin-ski-patrol" src="cardes-images/ice-190-goblin-ski-patrol.jpg" />
+</center>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-2020-connaissance-des-règles">Question 20/20 : connaissance des règles</h2>
-<div class="incremental">
+<h2 id="question-2020-connaissance-des-règles">Question 20/20 :
+connaissance des règles</h2>
 <!-- https://rulesguru.org/?1177 -->
 <!-- <i class="ms ms-loyalty-down ms-loyalty-1 ms-2x"></i> -->
-<p>Je contrôle <a href="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation"><strong>Padeem, Consul de l’Innovation</strong></a>, ainsi qu’une <a href="https://scryfall.com/card/sld/1265/walking-ballista"><strong>Baliste ambulante</strong></a> ayant été lancée pour X valant un million (balèze !).<br> Aucun autre permanent présent n’a atteint de valeur aussi impressionnante.</p>
-<p><img style="float: right; width: 26vh;" alt="https://scryfall.com/card/2xm/306/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" /> <img style="float: right; width: 25vh;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" /></p>
-<p>A mon entretien, suis-je <strong><ins>certain</ins></strong> de piocher, par la capacité de Padeem ?</p>
+<p>Je contrôle <a
+href="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation"><strong>Padeem,
+Consul de l’Innovation</strong></a>, ainsi qu’une <a
+href="https://scryfall.com/card/sld/1265/walking-ballista"><strong>Baliste
+ambulante</strong></a> ayant été lancée pour X valant un million (balèze
+!).<br> Aucun autre permanent présent n’a atteint de valeur aussi
+impressionnante.</p>
+<p><img style="float: right; width: 26vh;" alt="https://scryfall.com/card/2xm/306/fr/baliste-ambulante" src="cardes-images/sld-1265-walking-ballista.jpg" />
+<img style="float: right; width: 25vh;" alt="https://scryfall.com/card/kld/59/fr/padeem-consul-de-linnovation" src="cardes-images/pkld-59s-padeem-consul-of-innovation.jpg" /></p>
+<p>A mon entretien, suis-je <strong><ins>certain</ins></strong> de
+piocher, par la capacité de Padeem ?</p>
 <ol class="incremental" style="list-style-type: decimal">
 <li><strong>Oui</strong></li>
 <li><strong>Non</strong></li>
 </ol>
 </div>
+<div class="slide section level1">
+
+<h2 id="correction-question-2020">Correction : Question 20/20</h2>
+<p><strong>Réponse</strong> : Non, la Baliste a un coût de mana égal à
+zéro sur le champ de bataille.</p>
 </div>
 <div class="slide section level1">
 
-<h2 id="question-2120-connaissance-des-cartes---bonus-pour-départager-si-besoin">Question 21/20 : connaissance des cartes - Bonus pour départager, si besoin</h2>
-<div class="incremental">
-<p>Combien existe-t-il de créature(s), à bord noirs (pas de <em>“Un-Set”</em>), ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n’ayant pas de capacité de définition de caractéristique, et n’ayant pas de capacité statique définissant ou augmentant son endurance ?</p>
+<!--
+## Question 21/20 : connaissance des cartes - Bonus pour départager, si besoin
+
+Combien existe-t-il de créature(s), à bord noirs (pas de *"Un-Set"*), ayant une endurance imprimée de 0 (et pas *), ne recevant pas de marqueur +1/+1 lors de leur arrivée en jeu, n'ayant pas de capacité de définition de caractéristique, et n'ayant pas de capacité statique définissant ou augmentant son endurance ?
+
+> 1. aucune (zéro)
+> 2. une seule
+> 3. deux
+> 4. cinq
+
+----
+
+## Correction
+
+Réponse : 2. une seule, il s'agit de [Force de Sauvagerie](https://scryfall.com/card/fut/126/force-of-savagery), une jolie créature 8/0 imprimée dans la très étrange extension Vision du Futur (Future Sight).
+
+----
+-->
+<h2
+id="question-2120-connaissance-des-cartes---bonus-pour-départager-si-besoin">Question
+21/20 : connaissance des cartes - Bonus pour départager, si besoin</h2>
+<p>Combien existe-t-il de cartes en tout, qui représentent les parents
+du plus mignon petit singe de tout Magic, <a
+href="https://scryfall.com/card/j22/40/fr/kibo-prince-de-louktabi"><strong>Kibo,
+prince de l’Ouktabi</strong></a> ?</p>
 <ol class="incremental" style="list-style-type: decimal">
-<li>aucune (zéro)</li>
-<li>une seule</li>
-<li>deux</li>
-<li>cinq</li>
+<li>aucune, <strong>Kibo</strong> n’existe pas et a été inventé pour
+cette question !</li>
+<li>une seule, l’<a
+href="https://scryfall.com/card/vis/123/uktabi-orangutan"><strong>Orang-outang
+de l’Ouktabi</strong></a> de Visions (1996),</li>
+<li>deux, avec aussi le <a
+href="https://scryfall.com/card/unh/115/uktabi-kong"><strong>Uktabi
+Kong</strong></a> à bords argentés,</li>
+<li>trois, <strong>Kibo</strong> lui-même étant représenté avec ses
+parents.</li>
 </ol>
 </div>
-</div>
 <div class="slide section level1">
 
-</div>
-<div class="slide section level1">
-
-<h2 id="question-2220-connaissance-des-cartes---bonus-pour-départager-si-besoin">Question 22/20 : connaissance des cartes - Bonus pour départager, si besoin</h2>
-<div class="incremental">
-<p>Combien existe-t-il de cartes en tout, qui représentent les parents du plus mignon petit singe de tout Magic, <a href="https://scryfall.com/card/j22/40/fr/kibo-prince-de-louktabi"><strong>Kibo, prince de l’Ouktabi</strong></a> ?</p>
-<ol class="incremental" style="list-style-type: decimal">
-<li>aucune, <strong>Kibo</strong> n’existe pas et a été inventé pour cette question !</li>
-<li>une seule, l’<a href="https://scryfall.com/card/vis/123/uktabi-orangutan"><strong>Orang-outang de l’Ouktabi</strong></a> de Visions (1996),</li>
-<li>deux, avec aussi le <a href="https://scryfall.com/card/unh/115/uktabi-kong"><strong>Uktabi Kong</strong></a> à bords argentés,</li>
-<li>trois, <strong>Kibo</strong> lui-même étant représenté avec ses parents.</li>
-</ol>
-</div>
+<h2 id="correction-question-2120">Correction : Question 21/20</h2>
+<p>Réponse : trois, <strong>Kibo</strong> lui-même étant représenté avec
+ses parents.</p>
+<center>
+<img style="width: 31vh;" alt="https://scryfall.com/card/vis/123/uktabi-orangutan" src="cardes-images/vis-123-uktabi-orangutan.jpg" />
+<img style="width: 31vh;" alt="https://scryfall.com/card/unh/115/uktabi-kong" src="cardes-images/unh-115-uktabi-kong.jpg" />
+<img style="width: 31vh;" alt="https://scryfall.com/card/j22/40/kibo-uktabi-prince" src="cardes-images/j22-40-kibo-uktabi-prince.jpg" />
+</center>
 </div>
 <div class="slide section level1">
 
 <h2 id="fin-du-quiz">Fin du Quiz !</h2>
 <p><br><br></p>
-<h3 id="bravo-à-tous-et-toutes-merci-de-votre-participation">🎉 Bravo à tous et toutes, merci de votre participation ! 🎉</h3>
+<h3 id="bravo-à-tous-et-toutes-merci-de-votre-participation">🎉 Bravo à
+tous et toutes, merci de votre participation ! 🎉</h3>
 <p><br></p>
-<h3 id="calcul-des-scores-et-distribution-des-lots">🎁 Calcul des scores et distribution des lots ! 🎁</h3>
+<h3 id="calcul-des-scores-et-distribution-des-lots">🎁 Calcul des scores
+et distribution des lots ! 🎁</h3>
 </div>
 <div class="slide section level1">
 
-<h2 id="a-propos-de-ce-quiz-magic">A propos de ce <em>Quiz Magic</em></h2>
+<h2 id="a-propos-de-ce-quiz-magic">A propos de ce <em>Quiz
+Magic</em></h2>
 <p><small></p>
 <ul>
-<li><em>Astuce</em> : utilisez “S” / “B” pour diminuer/augmenter la taille du texte ;</li>
-<li>Écrite en <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, un langage à balise léger et libre ;</li>
-<li>Convertie en slides web avec <a href="https://pandoc.org/"><code>pandoc</code></a>, avec l’option “slidy” ;</li>
-<li>Utilise les polices spéciales <em>Magic the Gathering</em> : <a href="https://www.cufonfonts.com/font/planewalker">Planewalker</a> pour le texte, <a href="https://keyrune.andrewgioia.com/index.html">Keyrune</a> pour les symboles d’extension, <a href="http://alexandrearpin.com/mtg-font/icons.html">Alexandre Arpin’s Font</a> pour les autres symboles ; <!-- TODO: there is also this font, which includes Planeswalker symbols: https://mana.andrewgioia.com/icons.html --></li>
-<li>Utilise la base de données <code>AllPrintings.sqlite</code> du projet <a href="https://mtgjson.com/downloads/all-files/#allprintings">MTG JSON</a> pour vérifier certaines réponses ;</li>
-<li>Open-source et libre, <a href="https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons">sur mon GitHub</a> ;</li>
-<li><a href="https://lbesson.mit-license.org/">MIT Licensed</a>, (c) <a href="https://besson.link">Lilian Besson (Naereen), 2024</a>.</li>
+<li><em>Astuce</em> : utilisez “S” / “B” pour diminuer/augmenter la
+taille du texte ;</li>
+<li>Écrite en <a
+href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, un langage à
+balise léger et libre ;</li>
+<li>Convertie en slides web avec <a
+href="https://pandoc.org/"><code>pandoc</code></a>, avec l’option
+“slidy” ;</li>
+<li>Utilise les polices spéciales <em>Magic the Gathering</em> : <a
+href="https://www.cufonfonts.com/font/planewalker">Planewalker</a> pour
+le texte, <a
+href="https://keyrune.andrewgioia.com/index.html">Keyrune</a> pour les
+symboles d’extension, <a
+href="http://alexandrearpin.com/mtg-font/icons.html">Alexandre Arpin’s
+Font</a> pour les autres symboles ;
+<!-- TODO: there is also this font, which includes Planeswalker symbols: https://mana.andrewgioia.com/icons.html --></li>
+<li>Utilise la base de données <code>AllPrintings.sqlite</code> du
+projet <a
+href="https://mtgjson.com/downloads/all-files/#allprintings">MTG
+JSON</a> pour vérifier certaines réponses ;</li>
+<li>Open-source et libre, <a
+href="https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons">sur
+mon GitHub</a> ;</li>
+<li><a href="https://lbesson.mit-license.org/">MIT Licensed</a>, (c) <a
+href="https://besson.link">Lilian Besson (Naereen), 2024</a>.</li>
 </ul>
 <p></small></p>
 </div>
