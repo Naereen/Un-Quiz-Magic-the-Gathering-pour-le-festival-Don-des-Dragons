@@ -205,7 +205,12 @@ Dans sa version la moins chère, en VO en anglais (*"prix moyen"*, tel qu'affich
 ## Correction : Question 6/20 - Bonus
 
 <!-- TODO: rafraîchir la réponse la veille du quiz ! -->
-**Réponse** : **1.91€** pour [la version la moins chère (Mystery Booster 2)](https://scryfall.com/card/mb2/26/daze).
+**Réponse** : **31€** en tendance des prix pour la
+[version la moins chère (Prophecy) de Rhystic Study](https://scryfall.com/card/pcy/45/rhystic-study).
+
+<center>
+<img style="width: 85vh;" alt="https://scryfall.com/search?q=%28%22lotus+petal%22+or+%22daze%22+or+%22mystic+remora%22+or+%22rhystic+study%22%29+order%3AEUR+game%3Dpaper&unique=cards&as=grid&order=name" src="cardes-images/ordre-quatre-cartes-Pauper.png" />
+</center>
 
 ----
 
@@ -265,7 +270,7 @@ Elle est notamment connue pour le cycle des *"Guru Lands"*, les terrains de base
 
 Dans ma bibliothèque, quelle est la force du [**Changeforme corrompu**](https://scryfall.com/card/mh3/56/fr/changeforme-corrompu) ?
 
-<img style="float: right; width: 30vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
+<img style="float: right; width: 35vh;" alt="https://scryfall.com/card/mh3/56/fr/changeforme-corrompu" src="cardes-images/mh3-56-corrupted-shapeshifter.jpg" />
 <div style="float: left; width: 90vh; zoom: 0.90;">
 > 1. **zéro**, car sa capacité n'est pas une capacité de définition de caractéristique ([règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a))
 > 2. **trois**, car c'est le premier choix imprimé sur la carte ([règle 604.3b.](https://yawgatog.com/resources/magic-rules/#R6043))
@@ -277,7 +282,7 @@ Dans ma bibliothèque, quelle est la force du [**Changeforme corrompu**](https:/
 
 ## Correction : Question 9/20
 
-**Réponse** : 1. **zéro**, sa capacité n'est pas une capacité de définition de caractéristique (CDC), comme expliqué dans la règle [règle 604.3a.](https://yawgatog.com/resources/magic-rules/#R6043a).
+**Réponse** : 1. **zéro**, sa capacité n'est pas une capacité de définition de caractéristique (CDC), comme expliqué dans la règle [règle 604.3a](https://yawgatog.com/resources/magic-rules/#R6043a).
 
 En gros : elle dépend d'un choix à faire lors d'une arrivée sur le champ de bataille, donc n'est pas une CDC.
 
@@ -293,8 +298,8 @@ Combien d'exemplaires de la carte nommée **[Black Lotus](https://scryfall.com/c
 
 > 1. *190*
 > 2. *1100*
-> 3. *25000*
-> 4. *360000*
+> 3. *25 000*
+> 4. *360 000*
 
 ----
 
@@ -381,6 +386,8 @@ De quelle rareté est cette carte, le [**Biomathématicien**](https://scryfall.c
 ## Correction : Question 12/20
 
 **Réponse** : 1. commune.
+
+<img style="float: right; width: 35vh;" alt="https://scryfall.com/card/stx/164/fr/biomath%C3%A9maticien" src="cardes-images/stx-164-biomathematician.jpg" />
 
 ----
 
@@ -471,7 +478,7 @@ En considérant les cartes à bords argentés (les *"Un-set"*) et les jetons que
 > 1. **six** : cinq couleurs + l'incolore
 > 2. **six** : cinq couleurs + le rose
 > 3. **sept** : cinq couleurs + le rose + le doré
-> 4. **autant que l'on veut**, car on peut nommer la *"couleur des yeux"* !
+> 4. **autant que l'on veut**, car on peut nommer une *"couleur des yeux"* !
 
 ----
 
@@ -514,7 +521,7 @@ Quel est plan du multivers a été le plus souvent visité par les extensions of
 
 ## Correction : Question 17/20
 
-**Réponse** : Dominaria : c'est assez évident si on connaît le début de Magic !
+**Réponse** : <u>Dominaria</u> : c'est assez évident si on connaît le début de Magic !
 En effet, jusqu'au bloc Mirrodin sorti en 2003, presque tout se passait sur Dominaria !
 Depuis, Dominaria est resté un bloc très visité.
 
@@ -543,7 +550,11 @@ Qui est l'artiste ayant illustré le plus de cartes différentes (versions papie
 
 **Réponse** : 2. [John Avon](https://scryfall.com/search?q=a%3A%E2%80%9CJohn+Avon%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), avec actuellement 1306 cartes différentes (au 1er novembre 2024).
 
-Les autres artistes ont, respectivement, 752 cartes pour [Dan Frazier](https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), 1196 cartes pour [Kev Walker](https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name), et 789 cartes pour [Greg Staples](https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name).
+Les autres artistes ont, respectivement :
+
+- 752 cartes pour [Dan Frazier](https://scryfall.com/search?q=a%3A%E2%80%9CDan+Frazier%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name),
+- 1196 cartes pour [Kev Walker](https://scryfall.com/search?q=a%3A%E2%80%9CKev+Walker%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name),
+- et 789 cartes pour [Greg Staples](https://scryfall.com/search?q=a%3A%E2%80%9CGreg+Staples%E2%80%9D+game%3Apaper&unique=prints&as=text&order=name).
 
 ----
 
