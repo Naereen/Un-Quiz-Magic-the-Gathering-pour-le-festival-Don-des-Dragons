@@ -2,6 +2,8 @@
 
 Ce dépôt GitHub héberge le code source, ainsi que la version consultable en ligne, d'un Quiz que j'ai conçu pour la soirée du samedi 30 novembre 2024, lors du Festival du Dons des Dragons.
 
+![Quiz Expert à Magic the Gathering - samedi 6 décembre au DDD.png](Quiz Expert à Magic the Gathering - samedi 6 décembre au DDD.png)
+
 ## Un aperçu
 
 ![Documentation screenshots : exemple question](documentation-screenshots/exemple-question1.png)
