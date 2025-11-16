@@ -1,6 +1,7 @@
-# Un quiz sur Magic the Gathering, pour le festival du Dons des Dragons édition 2024
+# Un quiz sur Magic the Gathering, pour le festival du Dons des Dragons (éditions 2024 et 2025)
 
 Ce dépôt GitHub héberge le code source, ainsi que la version consultable en ligne, d'un Quiz que j'ai conçu pour la soirée du samedi 30 novembre 2024, lors du Festival du Dons des Dragons.
+Mise à jour : je refais un nouveau quiz, pour le samedi 6 décembre 2025, à la prochaine édition [du festival Don des Dragons](https://www.dondesdragons.org/activities?a=activities).
 
 ![Quiz Expert à Magic the Gathering - samedi 6 décembre au DDD.png](Quiz%20Expert%20à%20Magic%20the%20Gathering%20-%20samedi%206%20décembre%20au%20DDD.png)
 
@@ -37,7 +38,7 @@ $ firefox http://localhost:8000/slides.slidy.html
 
 ## :scroll: License ? [![GitHub license](https://img.shields.io/github/license/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons)](https://github.com/Naereen/Un-Quiz-Magic-the-Gathering-pour-le-festival-Don-des-Dragons/blob/master/LICENSE)
 The slideshow (and all other documents) in this repository is published under the terms of the [MIT License](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
-© [Lilian Besson](https://GitHub.com/Naereen), 2024.
+© [Lilian Besson](https://GitHub.com/Naereen), 2024-2025.
 
 The logos and images are the properties of their respective authors, mainly [Wizards of the Coast](https://magic.wizards.com/).
 
