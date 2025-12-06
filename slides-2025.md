@@ -48,7 +48,7 @@ Bien que Chandra Nalaar soit la pyromancienne la plus connue actuellement, cette
 On la trouve notamment sur le texte d'ambiance de la carte [Grésillement](https://scryfall.com/card/8ed/224/sizzle) (Sizzle) de Sixième Édition.
 </div>
 
-<img style="float: right; width: 30vh;" alt="https://scryfall.com/card/8ed/224/sizzle" src="cardes-images/8ed-224-sizzle.jpg" />
+<img style="float: right; width: 35vh;" alt="https://scryfall.com/card/8ed/224/sizzle" src="cardes-images/8ed-224-sizzle.jpg" />
 
 ----
 
@@ -56,16 +56,16 @@ On la trouve notamment sur le texte d'ambiance de la carte [Grésillement](https
 
 Quelle extension, tristement célèbre pour avoir réimprimé massivement des cartes puissantes des premières éditions (comme *Arabian Nights* ou *Legends*), a provoqué la création de la **"Reserved List"** (Liste de Réserve) ?
 
-1. **Fourth Edition**
-2. **Chronicles**
-3. **Homelands**
-4. **Fallen Empires**
+1. *Fourth Edition*
+2. *Chronicles*
+3. *Homelands*
+4. *Fallen Empires*
 
 ----
 
 ## Correction 2/15 : histoire du jeu
 
-**Réponse** : 2. [**Chronicles**](https://scryfall.com/sets/chr) (1995)
+**Réponse** : 2. [*Chronicles*](https://scryfall.com/sets/chr) (1995)
 
 Cette extension était entièrement composée de réimpressions de cartes d'extensions précédentes (comme *Legends*, *The Dark*, *Arabian Nights*), mais avec des bords blancs.
 
@@ -132,9 +132,11 @@ Il a été révélé bien plus tard (dans l'histoire de <em>Dominaria United</em
 
 Parmi les cartes « **Ultimatums** » suivants, une seule n'existe **pas** en tant que carte imprimée dans *Magic: the Gathering*, laquelle ?
 
-> En anglais : Brilliant Ultimatum ; Clarion U ; Cruel U ; Eerie U ; Emergent U ; Genesis U ; Inspired U ; Problematic U ; Ruinous U ; Titanic U ; Violent U
+En français : Ultimatum luminescent ; U claironnant ; U cruel ; U inquiétant ; U émergent ; U de genèse ; U inspiré ; U problématique ; U ruineux ; U titanesque ; U violent
 
-> En français : Ultimatum luminescent ; U claironnant ; U cruel ; U inquiétant ; U émergent ; U de genèse ; U inspiré ; U problématique ; U ruineux ; U titanesque ; U violent
+<br><br><br>
+
+> En anglais : Brilliant Ultimatum ; Clarion U ; Cruel U ; Eerie U ; Emergent U ; Genesis U ; Inspired U ; Problematic U ; Ruinous U ; Titanic U ; Violent U
 
 ----
 
@@ -155,12 +157,12 @@ Mon adversaire la cible avec un [**Choc**](https://scryfall.com/card/m21/159/fr/
 Le Choc est sur la pile.
 <br>
 En réponse, je lance [**Projection**](https://scryfall.com/card/grn/127/fr/projection) (*Fling*), sacrifiant mon Ourson, pour infliger 2 blessures à mon adversaire.
-<br>
 L'action est-elle légale ?
 
 1. **Oui**.
 2. **Non**, la créature a déjà 2 blessures sur elle et ne peut pas être sacrifiée.
 3. **Non**, la créature meurt avant que la Projection ne puisse être lancée.
+4. **Non**, sacrifier un Ourson c'est interdit.
 
 ----
 
@@ -168,7 +170,7 @@ L'action est-elle légale ?
 
 **Réponse** : 1. **Oui**, l'action est parfaitement légale.
 
-Les **Actions Basées sur l'État** (State-Based Actions), qui incluent la mort des créatures ayant des blessures létales ([Règle 704.5g](https://yawgatog.com/resources/magic-rules/#R7045g)), ne sont vérifiées que lorsqu'un joueur s'apprête à recevoir la priorité.
+Les **Actions Basées sur l'État** (SBA, *State-Based Actions*), qui incluent la mort des créatures ayant des blessures létales ([Règle 704.5g](https://yawgatog.com/resources/magic-rules/#R7045g)), ne sont vérifiées que lorsqu'un joueur s'apprête à recevoir la priorité.
 
 ----
 
@@ -187,7 +189,7 @@ Les **Actions Basées sur l'État** (State-Based Actions), qui incluent la mort 
 
 ## Question 7/15 : connaissance des cartes
 
-Laquelle de ces célèbres mécaniques de jeu (nommées en anglais) a une carte portant son nom exact (en anglais) ?
+Une seule de ces célèbres mécaniques de jeu (nommées en anglais) a une carte portant son nom exact (en anglais) ?
 
 1. **Banding** (regroupement)
 2. **Phasing** (déphasage)
@@ -215,7 +217,7 @@ Comment le titan Eldrazi, *Emrakul*, a-t-elle été neutralisée lors des évén
 
 1. Détruite par les Sentinelles (la *Gatewatch*) en combinant leurs pouvoirs ;
 2. Attirée dans la lune d'argent d'Innistrad et emprisonnée à l'intérieur par Tamiyo ;
-3. Bannnie du plan par Sorin Markov, avec l'aide d'Avacyn ;
+3. Bannie du plan par Sorin Markov, avec l'aide d'Avacyn ;
 4. Emrakul s'est volontairement sacrifiée pour corrompre le plan de l'intérieur.
 
 ----
@@ -224,9 +226,9 @@ Comment le titan Eldrazi, *Emrakul*, a-t-elle été neutralisée lors des évén
 
 **Réponse** : 2. **Attirée dans la lune d'argent d'Innistrad et emprisonnée à l'intérieur par Tamiyo.**
 
-<img style="float: right; width: 25vh;" alt="https://scryfall.com/card/inr/358/imprisoned-in-the-moon" src="cardes-images/inr-358-imprisoned-in-the-moon.jpg" />
+<img style="float: right; width: 30vh;" alt="https://scryfall.com/card/inr/358/imprisoned-in-the-moon" src="cardes-images/inr-358-imprisoned-in-the-moon.jpg" />
 
-<small>
+<div style="font-size: 0.9em;">
 Alors que les Sentinelles étaient sur le point d'être vaincus, la planeswalker [Tamiyo](https://scryfall.com/card/emn/7/fr/tamiyo-chercheuse-sur-le-terrain) a utilisé un puissant sort d'emprisonnement, pour lier la conscience d'Emrakul à la lune d'Innistrad.
 Il a été fortement sous-entendu qu'Emrakul s'est "laissée faire", murmurant "Je serai au seul endroit où je ne peux pas être atteinte" à Jace. (Les titans Ulamog et Kozilek ont été détruits sur Zendikar, mais Emrakul est toujours "vivante".)
 </small>
@@ -237,15 +239,19 @@ Il a été fortement sous-entendu qu'Emrakul s'est "laissée faire", murmurant "
 
 Laquelle de ces capacités activées n'est **PAS** une __capacité de mana__ (et utilise donc la pile, pouvant être contrée ou répondue) ?
 
+<div style="font-size: 0.8em;">
 1. La capacité du [**Pétale de lotus**](https://scryfall.com/card/plst/TMP-294/lotus-petal)
 2. La première capacité du [**Shamane ritemort**](https://scryfall.com/card/rvr/175/fr/shamane-ritemort-(deathrite-shaman)) (Deathrite Shaman)
 3. La capacité des [**Elfes de Llanowar**](https://scryfall.com/card/fdn/227/llanowar-elves)
 4. La première capacité de l'[**Étoile chromatique**](https://scryfall.com/card/tsr/263/fr/%C3%A9toile-chromatique)
+</div>
 
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/plst/TMP-294/lotus-petal" src="cardes-images/mb1-1601-lotus-petal.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/rvr/175/fr/shamane-ritemort-(deathrite-shaman)" src="cardes-images/rvr-175-deathrite-shaman.jpg" />
-<img style="float: right; width: 10vh;" alt="https://scryfall.com/card/fdn/227/llanowar-elves" src="cardes-images/fdn-227-llanowar-elves.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/tsr/263/fr/%C3%A9toile-chromatique-(chromatic-star)" src="cardes-images/tsr-263-chromatic-star.jpg" />
+<center>
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/plst/TMP-294/lotus-petal" src="cardes-images/mb1-1601-lotus-petal.jpg" />
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/rvr/175/fr/shamane-ritemort-(deathrite-shaman)" src="cardes-images/rvr-175-deathrite-shaman.jpg" />
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/fdn/227/llanowar-elves" src="cardes-images/fdn-227-llanowar-elves.jpg" />
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/tsr/263/fr/%C3%A9toile-chromatique-(chromatic-star)" src="cardes-images/tsr-263-chromatic-star.jpg" />
+</center>
 
 ----
 
@@ -255,17 +261,19 @@ Laquelle de ces capacités activées n'est **PAS** une __capacité de mana__ (et
 
 La Règle **605.1a** définit ce qu'est une capacité de mana. Pour en être une, une capacité activée doit (entre autres) :
 
+<div style="font-size: 0.9em;">
 1. Ne pas être une capacité de loyauté.
 2. Ne pas nécessiter de cible (ne pas avoir le mot "ciblé" ou "target").
 3. Produire du mana quand elle se résout.
+</div>
 
-La première capacité du Shamane Ritemort ("Exilez une carte de terrain ciblée d'un cimetière...") **cible** une carte. Par conséquent, ce n'est *pas* une capacité de mana. Elle utilise la pile et on peut y répondre (par exemple, en exilant le terrain ciblé avec un autre effet avant la résolution).
+La première capacité du *Shamane Ritemort* ("Exilez une carte de terrain ciblée d'un cimetière...") **cible** une carte. Par conséquent, ce n'est *pas* une capacité de mana. Elle utilise la pile et on peut y répondre (par exemple, en exilant le terrain ciblé avec un autre effet avant la résolution).
 
 ----
 
 ## Question 10/15 : connaissance des artistes
 
-Parmi les artistes suivants, lequel n'a **JAMAIS** illustré de carte appelé **Black Lotus**, depuis l'origine de *Magic: the Gathering* jusqu'à aujourd'hui ?
+Parmi les artistes suivants, lequel n'a **JAMAIS** illustré de [carte appelée **Black Lotus**](https://scryfall.com/search?as=grid&order=released&q=%21%22Black+Lotus%22+oracleid%3A5089ec1a-f881-4d55-af14-5d996171203b+include%3Aextras&unique=prints), depuis l'origine de *Magic: the Gathering* jusqu'à aujourd'hui ?
 
 1. **Christopher Rush**
 2. **Chris Rain**
@@ -278,16 +286,18 @@ Parmi les artistes suivants, lequel n'a **JAMAIS** illustré de carte appelé **
 
 **Réponse** : 3. **John Avon** !
 
-1. [Christopher Rush](https://scryfall.com/card/lea/233/black-lotus) a illustré la carte originale de 1993, dans *Limited Edition Alpha*.
+<div style="font-size: 0.9em;">
+1. [Christopher Rush](https://scryfall.com/card/lea/233/black-lotus) a illustré la carte originale de 1993, dans *Alpha*.
 2. [Chris Rain](https://scryfall.com/card/vma/4/black-lotus) a illustré la réimpression de 2013 dans *Vintage Masters*.
 3. John Avon n'a **jamais** illustré de carte **Black Lotus**.
 4. [Raoul Vitale](https://scryfall.com/card/ovnt/2023EU/black-lotus) a illustré la réimpression *2023 Europe Vintage Championship*.
+</div>
 
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/lea/233/black-lotus" src="cardes-images/vma-4-black-lotus.jpg" />
-<img style="float: center; width: 10vh;" alt="https://scryfall.com/card/vma/4/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" />
-<img style="float: right; width: 10vh;" alt="https://scryfall.com/card/ovnt/2023EU/black-lotus" src="cardes-images/pewk-2023EU-black-lotus.jpg" />
-
-Cf. [cette requête Scryfall](https://scryfall.com/search?as=grid&order=released&q=%21%22Black+Lotus%22+oracleid%3A5089ec1a-f881-4d55-af14-5d996171203b+include%3Aextras&unique=prints) pour la liste complète des illustrations de **Black Lotus**.
+<center>
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/lea/233/black-lotus" src="cardes-images/vma-4-black-lotus.jpg" />
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/vma/4/black-lotus" src="cardes-images/lea-232-black-lotus.jpg" />
+<img style="float: center; width: 15vh;" alt="https://scryfall.com/card/ovnt/2023EU/black-lotus" src="cardes-images/pewk-2023EU-black-lotus.jpg" />
+</center>
 
 ----
 
@@ -307,15 +317,17 @@ Laquelle ?
 
 **Réponse** : 1. [**Progenitus**](https://scryfall.com/card/mma/182/fr/progenitus)
 
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/con/121/progenitus" src="cardes-images/con-121-progenitus.jpg" />
-
+<div style="font-size: 0.9em;">
 Imprimée à l'origine dans *Conflux*, Progenitus est la seule carte avec le texte de règle "Protection contre tout". Cela signifie qu'il ne peut pas être bloqué, ciblé, ou se voir infliger des blessures par quoi que ce soit.
+</div>
 
-<!-- (sauf exceptions comme les colères de dieu, qui ne ciblent pas et ne font pas de blessures). -->
-
+<div style="float: left; width: 50vw;">
 - Le Colosse de Sombracier est indestructible (mais peut être ciblé, exilé, etc.) ;
 - Le Tarrasque a la parade <i class="mi mi-mana mi-10 mi-shadow mi-1x"></i>, s'il a été lancé ;
 - Emrakul a une protection contre les sorts qui ont au moins une couleur.
+</div>
+
+<img style="float: right; width: 20vh;" alt="https://scryfall.com/card/con/121/progenitus" src="cardes-images/con-121-progenitus.jpg" />
 
 ----
 
@@ -334,10 +346,12 @@ Qui était la capitaine *originale* du navire volant **"L'Aquilon"** (The Weathe
 
 **Réponse** : 4. [**Sisay**](https://scryfall.com/card/tsr/261/fr/capitaine-sisay)
 
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/inv/237/captain-sisay" src="cardes-images/inv-237-captain-sisay.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/apc/11/gerrard-capashen" src="cardes-images/apc-11-gerrard-capashen.jpg />
-
+<div style="float: left; width: 50vw;">
 La Capitaine Sisay était la descendante de la lignée qui pilotait l'Aquilon. L'intrigue principale du bloc *Tempête* commence lorsque Sisay est kidnappée par Volrath (l'Evincar de la Forteresse), et que Gerrard Capashen (un vieil ami et l'héritier de l'Héritage) est recruté par l'équipage pour la sauver et reprendre le commandement du navire.
+</div>
+
+<img style="float: right; width: 15vh;" alt="https://scryfall.com/card/apc/11/gerrard-capashen" src="cardes-images/apc-11-gerrard-capashen.jpg" />
+<img style="float: right; width: 15vh;" alt="https://scryfall.com/card/inv/237/captain-sisay" src="cardes-images/inv-237-captain-sisay.jpg" />
 
 ---
 
@@ -345,15 +359,17 @@ La Capitaine Sisay était la descendante de la lignée qui pilotait l'Aquilon. L
 
 Laquelle/lesquelles de ces cartes a/ont une Capacité de Définition de Caractéristiques (CDC) ?
 
-1. **Tarmogoyf**
-2. **Knight of the Reliquary**
-3. **Death's Shadow**
-4. **Serra Avatar**
+<center>
+<img style="float: center; width: 25vh;" alt="https://scryfall.com/card/tsr/235/tarmogoyf" src="cardes-images/tsr-235-tarmogoyf.jpg" />
+<img style="float: center; width: 25vh;" alt="https://scryfall.com/card/ima/203/knight-of-the-reliquary" src="cardes-images/ima-203-knight-of-the-reliquary.jpg" />
+<img style="float: center; width: 25vh;" alt="https://scryfall.com/card/2xm/82/deaths-shadow" src="cardes-images/2xm-82-death-s-shadow.jpg" />
+<img style="float: center; width: 25vh;" alt="https://scryfall.com/card/psus/2/serra-avatar" src="cardes-images/psus-2-serra-avatar.jpg" />
+</center>
 
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/tsr/235/tarmogoyf" src="cardes-images/tsr-235-tarmogoyf.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/ima/203/knight-of-the-reliquary" src="cardes-images/ima-203-knight-of-the-reliquary.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/2xm/82/deaths-shadow" src="cardes-images/2xm-82-death-s-shadow.jpg" />
-<img style="float: left; width: 10vh;" alt="https://scryfall.com/card/psus/2/serra-avatar" src="cardes-images/psus-2-serra-avatar.jpg" />
+<div style="font-size: 0.9em;">
+1 - **Tarmogoyf**           2 - **Knight of the Reliquary**
+3 - **Death's Shadow**      4 - **Serra Avatar**
+</div>
 
 ----
 
