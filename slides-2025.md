@@ -2,7 +2,7 @@
 title: <i class="mi mi-planeswalk mi-1x"></i> Quiz Magic the Gathering <i class="mi mi-planeswalk mi-1x"></i>
 author: Par les Arpenteurs de Strasbourg
 subtitle: au Festival Dons des Dragons 2025
-date: Samedi 6 décembre 2025
+date: 2025-12-06
 ---
 
 <link href="https://alexandrearpin.com/mtg-font/css/magic-font.css" rel="stylesheet" type="text/css" />

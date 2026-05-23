@@ -2,7 +2,7 @@
 title: <i class="mi mi-planeswalk mi-1x"></i> Quiz Magic the Gathering <i class="mi mi-planeswalk mi-1x"></i>
 author: Par les Arpenteurs de Strasbourg
 subtitle: au Festival Dons des Dragons 2024
-date: Samedi 30 novembre 2024
+date: 2024-11-30
 ---
 <link href="https://alexandrearpin.com/mtg-font/css/magic-font.css" rel="stylesheet" type="text/css" />
 <link href="https://cdn.jsdelivr.net/npm/keyrune@latest/css/keyrune.css" rel="stylesheet" type="text/css" />
