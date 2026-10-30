@@ -1,11 +1,14 @@
 # Quick Makefile to easily compile the slides (make pdf) and run the slide (make showtime)
 SHELL=/usr/bin/env /bin/bash
 
-all:	webslides-2025 send
+all:	webslides-2026 send
+webslides-2026: slidy-2026
 webslides-2025: slidy-2025
 webslides: slidy
 
 allslides:	slidy revealjs s5 slideous dzslides
+slidy-2026:
+	pandoc --standalone -c slides.css -t slidy slides-2026.md -o slides-2026.slidy.html
 slidy-2025:
 	pandoc --standalone -c slides.css -t slidy slides-2025.md -o slides-2025.slidy.html
 slidy:
