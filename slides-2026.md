@@ -45,7 +45,7 @@ De quel(le) célèbre Planeswalker provient cette citation ?
 <div style="float: left; width: 40vw;">
 Bien que Chandra Nalaar soit la pyromancienne la plus connue actuellement, cette citation emblématique appartient à son mentor, la légendaire Jaya Ballard.
 
-On la trouve notamment sur le texte d'ambiance de la carte [Grésillement](https://scryfall.com/card/8ed/224/sizzle) (Sizzle) de Sixième Édition.
+On la trouve notamment sur le texte d'ambiance de la carte [Grésillement](https://scryfall.com/card/8ed/224/sizzle) (Sizzle) de Huitième Édition.
 </div>
 
 <img style="float: right; width: 35vh;" alt="https://scryfall.com/card/8ed/224/sizzle" src="cardes-images/8ed-224-sizzle.jpg" />
